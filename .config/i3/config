@@ -1,0 +1,108 @@
+set $mod Mod4
+font pango:Source Code Pro
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+
+exec --no-startup-id nm-applet
+exec ./.config/polybar/launch.sh
+exec xrandr --output VGA-1 --left-of LVDS-1
+exec xwallpaper --focus ~/.config/wall.png
+exec setxkbmap -layout gb
+exec compton
+exec unclutter --timeout 1
+gaps inner 5
+gaps outer 3
+exec rm .bash_history
+for_window [class="^.*"] border pixel 3 
+
+set $refresh_i3status killall -SIGUSR1 i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && b$refresh_i3status
+bindsym XF86Launch1 exec shutdown -h now
+floating_modifier $mod
+
+bindsym $mod+Return exec st
+bindsym $mod+a exec firefox
+bindsym $mod+x kill
+bindsym $mod+s exec st -e ranger
+bindsym $mod+f exec st -e cmus
+bindsym $mod+d exec rofi -show run
+
+bindsym $mod+v exec ./lib/scripts/video
+bindsym $mod+p exec ./lib/scripts/papers
+bindsym $mod+l exec ./lib/scripts/write-disk
+bindsym $mod+o exec ./lib/scripts/mount-disk
+
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+bindsym $mod+Shift+q split h
+bindsym $mod+q split v
+bindsym $mod+z fullscreen toggle
+bindsym $mod+Shift+space floating toggle
+bindsym $mod+space focus mode_toggle
+
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+bindsym $mod+1 workspace number $ws1
+bindsym $mod+2 workspace number $ws2
+bindsym $mod+3 workspace number $ws3
+bindsym $mod+4 workspace number $ws4
+bindsym $mod+5 workspace number $ws5
+bindsym $mod+6 workspace number $ws6
+bindsym $mod+7 workspace number $ws7
+bindsym $mod+8 workspace number $ws8
+bindsym $mod+9 workspace number $ws9
+bindsym $mod+0 workspace number $ws10
+
+bindsym $mod+Shift+1 move container to workspace number $ws1
+bindsym $mod+Shift+2 move container to workspace number $ws2
+bindsym $mod+Shift+3 move container to workspace number $ws3
+bindsym $mod+Shift+4 move container to workspace number $ws4
+bindsym $mod+Shift+5 move container to workspace number $ws5
+bindsym $mod+Shift+6 move container to workspace number $ws6
+bindsym $mod+Shift+7 move container to workspace number $ws7
+bindsym $mod+Shift+8 move container to workspace number $ws8
+bindsym $mod+Shift+9 move container to workspace number $ws9
+bindsym $mod+Shift+0 move container to workspace number $ws10
+
+bindsym $mod+c reload
+bindsym $mod+w restart
+bindsym $mod+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+mode "resize" {
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
+
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+        bindsym $mod+r mode "default"
+}
+
+bindsym $mod+r mode "resize"
+client.focused          #ECEFF4 #ECEFF4 #ECEFF4 #ECEFF4 #ECEFF4 
+client.focused_inactive #4c566a #4c566a #4c566a #4c566a #4c566a  
+client.unfocused        #4c566a #4c566a #4c566a #4c566a #4c566a  
+client.urgent           #4c566a #4c566a #4c566a #4c566a #4c566a  
+client.placeholder      #4c566a #4c566a #4c566a #4c566a #4c566a 
+

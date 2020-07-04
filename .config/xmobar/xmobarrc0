@@ -1,0 +1,40 @@
+-- http://projects.haskell.org/xmobar/
+-- install xmobar with these flags: --flags="with_alsa" --flags="with_mpd" --flags="with_xft"  OR --flags="all_extensions"
+-- you can find weather location codes here: http://weather.noaa.gov/index.html
+
+Config { font    = "xft:Mononoki Nerd Font:pixelsize=10:antialias=true:hinting=true"
+       , additionalFonts = [ "xft:FontAwesome:pixelsize=11" ]
+       , bgColor = "#3b4252"
+       , fgColor = "#ebcb8b"
+       , position = Top
+       , lowerOnStart = True
+       , hideOnStart = False
+       , allDesktops = True
+       , persistent = True
+       , iconRoot = "/home/wilson/.xmonad/xpm/"  -- default: "."
+       , commands = [ 
+                      -- Time and date
+                      Run Date "\xf017 %b %d %Y (%H:%M)" "date" 50
+                      -- Network up and down
+                    , Run Network "wlp3s0" ["-t", "\xf0aa <rx>kb  \xf0ab <tx>kb"] 20
+                      -- Cpu usage in percent
+                    , Run Cpu ["-t", "\xf108  CPU: (<total>%)","-H","50","--high","#bf616a"] 20
+                      -- Ram used number and percent
+                    , Run Memory ["-t", "\xf233  MEM: <used>M (<usedratio>%)"] 20
+                      -- Disk space free
+                    , Run DiskU [("/", "\xf0c7  HDD: <free> free")] [] 60
+                      -- Runs custom script to check for pacman updates.
+                      -- This script is in my dotfiles repo in .local/bin.
+                    , Run Com "pacupdate" [] "" 10
+                      -- Battery info
+                    , Run Com "cat" ["/sys/class/power_supply/BAT0/capacity"] "" 20
+		      -- Runs a standard shell command 'uname -r' to get kernel version
+                    , Run Com "uname" ["-r"] "" 36000
+                      -- Prints out the left side items such as workspaces, layout, etc.
+                    , Run UnsafeStdinReader
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template ="<fc=#e4e8ef><icon=haskell_20.xpm/> </fc><fc=#666666>|</fc> %UnsafeStdinReader% }{ <fc=#666666>| </fc><fc=#bf616a> %cpu% </fc><fc=#666666>| </fc><fc=#a3be8c>%wlp3s0% </fc><fc=#666666>| </fc><fc=#ebcb8c> %pacupdate%</fc><fc=#666666>| </fc><fc=#81a1c1>  %cat% </fc><fc=#666666>| </fc><fc=#b48ead>%date%</fc> "
+	}
+ 

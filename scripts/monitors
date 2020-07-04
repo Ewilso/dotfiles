@@ -1,0 +1,14 @@
+#!/bin/sh
+choice=$(printf "HDMI-0\\nHDMI-1\\nMulti\\n" | dmenu -h 18)
+if [  "$choice" = "HDMI-0"  ]
+then
+	mons -o
+fi
+if [  "$choice" = "HDMI-1" ]
+then
+	mons -s
+fi
+if [  "$choice" = "Multi"  ]
+then
+	mons -e left
+fi

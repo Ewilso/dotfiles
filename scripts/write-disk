@@ -1,0 +1,12 @@
+#!/bin/sh
+cd ~/lib/OS
+ISO=$(ls | dmenu -l 30 | xargs -r echo)
+DISK=$(lsblk -lp | grep dev/sd | cut -c -9 | dmenu -l 30 | xargs -r echo)
+CONF=$(printf ""$ISO" - "$DISK"\\nConfirm\\nCancel\\n" | dmenu -l 30 | xargs -r echo)
+if [ "$CONF" = "Confirm" ]
+then
+	notify-send "Writing to Disk..."
+	sudo dd if=$ISO of=$DISK
+
+else
+fi

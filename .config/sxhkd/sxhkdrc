@@ -1,0 +1,89 @@
+#reload sxhkd
+super + Escape
+	 killall sxhkd && sxhkd &
+
+#Main Binds
+super + Return
+	$TERMINAL
+
+super + s 
+	$TERMINAL -e ranger
+
+super + f
+	$TERMINAL -e mocp
+
+super + w
+	brave
+
+super + shift + w
+	tabbed -r 2 surf -pe x 'file:///home/wilson/.config/surf/html/homepage.html'
+
+#launchers
+super + shift + Return
+	termite
+
+super +  d
+	cd /home/wilson/lib/scripts && ./dmenu_run_i -h 18
+
+super + shift + d 
+	rofi -show drun
+
+#Audio Binds
+XF86AudioRaiseVolume
+	 pactl set-sink-volume @DEFAULT_SINK@ +10%
+
+XF86AudioLowerVolume
+	 pactl set-sink-volume @DEFAULT_SINK@ -10%
+
+XF86AudioMute
+	 pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+#Script Binds
+super + e 
+	sh ~/lib/scripts/emoji
+super + c
+	sh ~/lib/scripts/configs
+
+super + p
+	sh ~/lib/scripts/papers
+
+super + b
+	sh ~/lib/scripts/monitors
+
+super + shift + b
+	sh ~/lib/scripts/mount-disk
+
+super + ctrl + shift + b
+	sh ~/lib/scripts/write-disk
+
+super + v 
+	sh ~/lib/scripts/video
+
+#General Binds
+super + shift + s
+	pcmanfm
+
+super + shift + p
+	scrot
+
+super + i 
+	discord
+
+super + g
+	virt-manager
+
+super + y 
+	slock
+
+#Function Binds
+super + F2
+	kill -9 -1
+
+super + F3
+	reboot
+
+super + F4
+	shutdown now
+
+super + F1
+	systemctl suspend

@@ -1,0 +1,17 @@
+#!/bin/sh
+while read file
+do
+	fullpath="$(pwd)/$file"
+	case "$1" in
+	"w")
+		cp "$file" ~/.config/wall.png &&
+		xwallpaper --focus "$HOME/.config/wall.png" ;;
+		#notify-send -i "$HOME/.config/wall.png" "Wallpaper changed." ;;
+	"z")
+                cp "$file" ~/.config/wall.png &&
+                xwallpaper --zoom "$HOME/.config/wall.png" ;;
+
+	"d")
+		rm "$file" ;;
+	esac
+done

@@ -1,0 +1,13 @@
+#!/bin/sh
+cd ~/lib/video
+CHANNEL=$(ls | dmenu -l 30 | xargs -r echo)
+if [ "$CHANNEL" = "Assorted" ]
+then
+	cd Assorted
+        mpv "$(ls | sort -r | dmenu -l 30)"	 
+else
+	cd "$CHANNEL"
+	mpv "$(ls | sort -r | dmenu -l 30)"
+
+fi
+

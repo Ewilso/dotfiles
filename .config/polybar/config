@@ -1,0 +1,205 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;==========================================================
+
+[colors]
+background = #3a4455
+background-alt = #444
+foreground = #333 
+foreground-alt = #555
+foreground-69 = D8DEE9
+primary = #ffb52a
+secondary = #81a1c1
+alert = #bf616a
+
+[hacks]
+module-margin = "   "
+
+[bar/bar1]
+width = 100%
+height = 18
+radius = 0
+monitor = ${env:MONITOR:}
+fixed-center = true
+background = ${colors.background}
+foreground = ${colors.foreground}
+line-size = 0
+line-color = #f00
+border-size = 0
+padding-left = 0
+padding-right = 0
+module-margin-left = 0
+module-margin-right = 0
+font-0 = FontAwesome:size=9;2
+font-1 = "Mononoki Nerd Font:size=8;2"
+font-2 = "Source Code Pro:size=8;2"
+font-3 = siji:pixelsize=8;2
+modules-left = kernel sep pkg sep battery
+modules-center = 
+modules-right = cpu sep memory sep filesystem sep pulseaudio sep wlan sep date
+tray-position = right
+tray-padding = 0
+
+[module/sep]
+type = custom/text
+content = "|"
+content-padding = 2
+content-foreground = #666666
+
+[module/filesystem]
+type = internal/fs
+interval = 25
+mount-0 = /
+format-mounted = <label-mounted>
+label-mounted =   HDD:%percentage_used%%
+label-mounted-foreground = #a3be8c
+format-mounted-prefix = ${hacks.module-margin}
+format-mounted-suffix = ${hacks.module-margin}
+format-mounted-prefix-foreground = #bf616a
+format-mounted-suffix-foreground = #bf616a
+
+[module/bspwm]
+type = internal/bspwm
+label-focused = %index%
+label-focused-foreground = #88c0d0
+label-focused-underline= ${colors.foreground}
+label-focused-padding = 2
+label-occupied = %index%
+
+[module/wlan]
+type = internal/network
+interface = wlp3s0
+interval = 3.0
+format-connected = "<label-connected> "
+label-connected = "  %upspeed%      %downspeed%"
+format-disconnected = " Wifi Disconnected"
+format-connected-prefix = ${hacks.module-margin}
+format-connected-foreground=#81a1c1
+format-disconnected-foreground=#81a1c1
+format-connected-suffix = ${hacks.module-margin}
+format-disconnected-prefix = ${hacks.module-margin}
+format-disconnected-suffix = ${hacks.module-margin}
+connected-active-font=2 
+disconnected-active-font=2
+
+[module/date]
+type = internal/date
+interval = 50
+date ="  (%d/%m)"
+time =%H:%M
+format-prefix = "    "
+format-suffix = ${hacks.module-margin}
+format-underline = #0a6cf5
+format-foreground = #b48ead
+label = %time% %date%
+
+[module/pulseaudio]
+type = internal/pulseaudio
+format-volume = <label-volume> <bar-volume>
+format-volume-prefix = ${hacks.module-margin}
+format-volume-suffix = ${hacks.module-margin}
+format-volume-foreground = #ebcb8b
+label-volume =  %percentage%%
+format-muted = <label-muted>
+format-muted-prefix = ${hacks.module-margin}
+format-muted-suffix = ${hacks.module-margin}
+format-muted-foreground = #ebcb8b
+label-muted = muted
+bar-volume-width = 7
+bar-volume-foreground-0 = #ebcb8
+bar-volume-foreground-1 =#ebcb8b              
+bar-volume-foreground-2 = #ebcb8b
+bar-volume-foreground-3 = #ebcb8b
+bar-volume-foreground-4 = #ebcb8b
+bar-volume-foreground-5 = #ebcb8b
+bar-volume-foreground-6 = #ebcb8b
+bar-volume-gradient = false
+bar-volume-indicator = |
+bar-volume-indicator-font = 2
+bar-volume-indicator-foreground = #ebcb8b
+bar-volume-fill = ─
+bar-volume-fill-font = 2
+bar-volume-empty = ─
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = #ebcb8b
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = AC
+full-at = 100
+format-charging-suffix= ${hacks.module-margin}
+format-full-suffix = ${hacks.module-margin}
+format-discharging-suffix= ${hacks.module-margin}
+format-full-prefix = ${hacks.module-margin}
+format-discharging-prefix= ${hacks.module-margin}
+format-charging-prefix = ${hacks.module-margin}
+format-charging-foreground = #81a1c1
+format-charging =  <label-charging>
+format-charging-underline = #81a1c1
+format-discharging =  <label-discharging>
+format-discharging-underline = ${self.format-charging-underline}
+format-discharging-foreground = #81a1c1
+format-discharging-suffix-foreground = #81a1c1
+format-full=   <label-full>
+format-full-prefix-foreground = #b48ead
+format-full-underline = #b48ead
+format-full-suffix-foreground= #b48ead
+format-full-foreground = #81a1c1
+
+[module/cpu]
+type = internal/cpu
+format = <label> 
+label =   CPU: %percentage%%
+interval = 0.5
+format-prefix = ${hacks.module-margin}
+format-suffix = ${hacks.module-margin}
+format-prefix-foreground = ${colors.foreground}
+format-underline = #0a6cf5
+format-foreground = #d8dee9
+
+[module/memory]
+type = internal/memory
+interval = 3
+format = <label>
+label =   MEM: %percentage_used%%
+format-prefix = ${hacks.module-margin}
+format-suffix = ${hacks.module-margin}
+format-prefix-foreground = ${colors.foreground}
+format-underline = #0a6cf5
+format-foreground = #bf616a
+
+[module/pkg]
+type = custom/script
+exec = ~/.config/polybar/pacupdate
+tail = true
+interval = 90
+format-prefix = ${hacks.module-margin}
+format-suffix = ${hacks.module-margin}
+format-prefix-foreground = ${colors.foreground}
+format-underline = #0a6cf5
+format-foreground = #81a1c1
+
+[module/kernel]
+type = custom/script
+exec = echo   " $(uname -r)" 
+tail = true
+interval = 36000
+format-prefix = ${hacks.module-margin}
+format-suffix = ${hacks.module-margin}
+format-prefix-foreground = ${colors.foreground}
+format-underline = #0a6cf5
+format-foreground = #d8dee9
+
+[global/wm]
+margin-top = 7
+margin-bottom = 5

@@ -1,0 +1,64 @@
+#!/bin/sh
+
+wet() {
+	getforecast() { curl -sf "wttr.in/$LOCATION" > "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" || exit 1 ;}
+	showweather() { printf "%s" "$(sed '16q;d' "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" |
+		grep -wo "[0-9]*%" | sort -rn | sed "s/^/FOR Ch /g;1q" | tr -d '\n')"		
+	sed '13q;d' "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" | grep -o "m\\([-+]\\)*[0-9]\\+" | sort -n -t 'm' -k 2n | sed -e 1b -e '$!d' | tr '\n|m' ' ' | awk '{print " Lo",$1, "Hi", $2}' ;}
+	[ "$(stat -c %y "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" 2>/dev/null | cut -d' ' -f1)" = "$(date '+%Y-%m-%d')" ] ||
+	         getforecast
+
+	showweather
+}
+
+cpu() {
+	top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1"%"}' | \
+			  xargs echo " " 
+}
+
+disk() {
+	echo " " "$(df -h "/home" | awk ' /[0-9]/ {print $3 "/" $2}')"
+}
+
+updates() {
+	echo "$(sh ~/.config/polybar/pacupdate)"
+}
+
+calendar() {
+	current=$(date "+%d/%m - %H:%M")
+	echo " $current"
+}
+
+net(){
+	update() {
+    	sum=0
+    	for arg; do
+        	read -r i < "$arg"
+        	sum=$(( sum + i ))
+    	done
+   	 cache=${XDG_CACHE_HOME:-$HOME/.cache}/${1##*/}
+  	 [ -f "$cache" ] && read -r old < "$cache" || old=0
+ 	 printf %d\\n "$sum" > "$cache"
+	 printf %d\\n $(( (sum - old) / 1024 ))
+	}
+
+	rx=$(update /sys/class/net/[ew]*/statistics/rx_bytes)
+	tx=$(update /sys/class/net/[ew]*/statistics/tx_bytes)
+
+	printf " %dKiB  %dKiB\\n" "$rx" "$tx"
+}
+
+kernel() {
+	echo " $(uname -r)"
+}
+
+memory(){
+	free --mebi | sed -n '2{p;q}' | awk '{printf (" %2.2fGiB/%2.2fGiB\n", ( $3 / 1024), ($2 / 1024))}'
+}
+
+while :; do
+	xsetroot -name " $(kernel) | $(updates) | $(cpu) | $(memory) | $(disk) | $(net) | $(calendar) "
+	sleep 3
+done
+
+

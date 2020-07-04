@@ -1,0 +1,47 @@
+#!/bin/sh
+echo "Choose: Channel(c), Video(v), Playlist(p), Update(u) or Song(s): "
+read choice
+if [  $choice = "v" ]
+then
+	echo "Input url: "
+	read url
+	echo "Choose channel:"
+	channel=$(cd ~/lib/video && ls | dmenu)
+	echo "Choose playlist"
+	playlist=$(cd ~/lib/video/"$channel" && ls | dmenu)
+	cd ~/lib/video/"$channel"/"$playlist" && youtube-dl $url
+fi
+if [  $choice = "p" ]
+then
+	echo "Input url: "
+	read url
+	echo "Choose channel:"
+	channel=$(cd ~/lib/video && ls | dmenu)
+	echo "Choose new directory:"
+	read direc
+	mkdir ~/lib/video/"$channel"/"$direc"
+	cd ~/lib/video/"$channel"/"$direc" && youtube-dl --yes-playlist $url
+fi
+if [  $choice = "c" ]
+then
+	cd ~/lib/video
+	echo "Enter a new channel name:"
+	read channel
+	mkdir ~/lib/video/"$channel"
+fi
+if [  $choice = "s" ]
+then
+	cd ~/lib/music
+	echo "Input url:"
+	read url
+	youtube-dl -x -f bestaudio/best $url
+fi
+if [  $choice = "u" ]
+then
+	lukesmith="https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA/"
+	cd ~/lib/video
+	channel=$(ls | dmenu -l 30)
+	cd $channel
+fi
+
+

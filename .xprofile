@@ -1,0 +1,12 @@
+picom &
+xwallpaper --focus ~/.config/wall.png &
+unclutter --timeout 1 &
+setxkbmap -layout gb &
+sh ~/lib/scripts/dwmbar &
+export TERMINAL="st" 
+sxhkd &
+xrandr --output HDMI-1 --right-of LVDS-2 &
+rm ~/.xsession-errors &
+rm ~/.xsession-errors-old &
+rm ~/.dmrc &
+rm ~/.bash_history 
