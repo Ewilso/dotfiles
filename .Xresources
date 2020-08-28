@@ -53,10 +53,10 @@ rofi.lines: 30
 rofi.color-enabled: true
 
 ! Property Name     BG       Border   Separator
-rofi.color-window:  #3B4252, #8fbcbb, #8fbcbb
+rofi.color-window:  #2e3440, #4c566a, #4c566a
 
 ! Property Name     BG       FG       BG-alt   Head-BG  Head-FG
-rofi.color-normal:  #3B4252, #E5E9F0, #3B4252, #3B4252, #8FBCBB
+rofi.color-normal:  #2e3440, #d8dee9, #2e3440, #2e3440, #4c566a
 
 
 rofi.font: Mononoki Nerd Font 9
