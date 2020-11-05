@@ -1,0 +1,4235 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/007 - The World is Not Enough (U) [C][!].gbc",
+      "label": "007 - The World is Not Enough (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/10-Pin Bowling (U) [C][!].gbc",
+      "label": "10-Pin Bowling (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/102 Dalmatians - Puppies to the Rescue (U) [C][!].gbc",
+      "label": "102 Dalmatians - Puppies to the Rescue (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/1942 (U) [C][!].gbc",
+      "label": "1942 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/3-D Ultra Pinball - Thrillride (U) [C][!].gbc",
+      "label": "3-D Ultra Pinball - Thrillride (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/3D Pocket Pool (E) (M6) [C][!].gbc",
+      "label": "3D Pocket Pool (E) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/58-in-1 (Unl) [C][b1].gbc",
+      "label": "58-in-1 (Unl) [C][b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/72-in-1 (Unl) [C][b1].gbc",
+      "label": "72-in-1 (Unl) [C][b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/720 Degrees (U) [C][!].gbc",
+      "label": "720 Degrees (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/ATV Racing & Karate Joe (Unl) [C][!].gbc",
+      "label": "ATV Racing & Karate Joe (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/ATV Racing (Unl) [C][!].gbc",
+      "label": "ATV Racing (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Action Man - Search for Base X (U) [C][!].gbc",
+      "label": "Action Man - Search for Base X (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/AirForce Delta (U) [C][!].gbc",
+      "label": "AirForce Delta (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Aladdin (U) [C][!].gbc",
+      "label": "Aladdin (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Alice in Wonderland (U) [C][!].gbc",
+      "label": "Alice in Wonderland (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Aliens - Thanatos Encounter (U) [C][!].gbc",
+      "label": "Aliens - Thanatos Encounter (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/All Star Tennis 2000 (U) [C][!].gbc",
+      "label": "All Star Tennis 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/All-Star Baseball 2000 (U) [C][!].gbc",
+      "label": "All-Star Baseball 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/All-Star Baseball 2001 (U) [C][!].gbc",
+      "label": "All-Star Baseball 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Alone in the Dark - The New Nightmare (U) (M3) [C][!].gbc",
+      "label": "Alone in the Dark - The New Nightmare (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Amazing Robot (Unl) [C].gbc",
+      "label": "Amazing Robot (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Animorphs (U) [C][!].gbc",
+      "label": "Animorphs (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Antz (U) (M3) [C][!].gbc",
+      "label": "Antz (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Antz Racing (U) (M6) [C][!].gbc",
+      "label": "Antz Racing (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Arle no Bouken - Mahou no Jewel (J) [C][T-Eng].gbc",
+      "label": "Arle no Bouken - Mahou no Jewel (J) [C][T-Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Armada - FX Racers (U) [C][!].gbc",
+      "label": "Armada - FX Racers (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Army Men (U) (M3) [C][!].gbc",
+      "label": "Army Men (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Army Men - Air Combat (U) (M3) [C][!].gbc",
+      "label": "Army Men - Air Combat (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Army Men - Sarge's Heroes 2 (U) (M3) [C][!].gbc",
+      "label": "Army Men - Sarge's Heroes 2 (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Army Men 2 (U) (M3) [C][!].gbc",
+      "label": "Army Men 2 (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Arthur's Absolutely Fun Day! (U) [C][!].gbc",
+      "label": "Arthur's Absolutely Fun Day! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Asteroids (U) [C][!].gbc",
+      "label": "Asteroids (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Atlantis - The Lost Empire (U) [C][!].gbc",
+      "label": "Atlantis - The Lost Empire (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Austin Powers - Oh, Behave! (U) [C][!].gbc",
+      "label": "Austin Powers - Oh, Behave! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Austin Powers - Welcome to My Underground Lair! (U) [C][!].gbc",
+      "label": "Austin Powers - Welcome to My Underground Lair! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Azure Dreams (U) [C][!].gbc",
+      "label": "Azure Dreams (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Babe and Friends (U) [C][!].gbc",
+      "label": "Babe and Friends (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ballistic (U) [C][!].gbc",
+      "label": "Ballistic (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Barbie - Fashion Pack Games (U) [C][!].gbc",
+      "label": "Barbie - Fashion Pack Games (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Barbie - Magic Genie Adventure (U) [C][!].gbc",
+      "label": "Barbie - Magic Genie Adventure (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Barbie - Ocean Discovery (U) [C][!].gbc",
+      "label": "Barbie - Ocean Discovery (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Barbie - Pet Rescue (U) [C][!].gbc",
+      "label": "Barbie - Pet Rescue (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bass Masters Classic (U) [C][!].gbc",
+      "label": "Bass Masters Classic (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Batman Beyond - Return of the Joker (U) [C][!].gbc",
+      "label": "Batman Beyond - Return of the Joker (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Battle Tanx (U) [C][!].gbc",
+      "label": "Battle Tanx (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Battleship (U) [C][!].gbc",
+      "label": "Battleship (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bear in the Big Blue House (U) (M7) [C][!].gbc",
+      "label": "Bear in the Big Blue House (U) (M7) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Beauty and the Beast - A Board Game Adventure (U) [C][!].gbc",
+      "label": "Beauty and the Beast - A Board Game Adventure (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Billy Bob's Huntin' 'n' Fishin' (U) [C][!].gbc",
+      "label": "Billy Bob's Huntin' 'n' Fishin' (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bionic Commando - Elite Forces (U) [C][!].gbc",
+      "label": "Bionic Commando - Elite Forces (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Black Bass - Lure Fishing (U) [C][!].gbc",
+      "label": "Black Bass - Lure Fishing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Blade (U) [C][!].gbc",
+      "label": "Blade (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Blaster Master - Enemy Below (U) [C][!].gbc",
+      "label": "Blaster Master - Enemy Below (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Blue's Clues - Blue's Alphabet Book (U) [C][!].gbc",
+      "label": "Blue's Clues - Blue's Alphabet Book (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Boarder Zone (U) [C][!].gbc",
+      "label": "Boarder Zone (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bob the Builder - Fix It Fun! (U) [C][!].gbc",
+      "label": "Bob the Builder - Fix It Fun! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bokujou Monogatari GB2 (J) [C][T+Eng0.1].gbc",
+      "label": "Bokujou Monogatari GB2 (J) [C][T+Eng0.1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bomberman Max - Blue Champion (U) [C][!].gbc",
+      "label": "Bomberman Max - Blue Champion (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bomberman Max - Red Challenger (U) [C][!].gbc",
+      "label": "Bomberman Max - Red Challenger (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bomberman Quest (U) [C][!].gbc",
+      "label": "Bomberman Quest (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bubble Bobble (U) [C][!].gbc",
+      "label": "Bubble Bobble (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Buffy the Vampire Slayer (U) [C][!].gbc",
+      "label": "Buffy the Vampire Slayer (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bug's Life, A (U) [C][!].gbc",
+      "label": "Bug's Life, A (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bugs Bunny & Lola Bunny - Carrot Crazy (U) (M3) [C][!].gbc",
+      "label": "Bugs Bunny & Lola Bunny - Carrot Crazy (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bugs Bunny - Crazy Castle 3 (U) [C][!].gbc",
+      "label": "Bugs Bunny - Crazy Castle 3 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bugs Bunny - Crazy Castle 4 (U) [C][!].gbc",
+      "label": "Bugs Bunny - Crazy Castle 4 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bust-A-Move 4 (UE) [C][!].gbc",
+      "label": "Bust-A-Move 4 (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Bust-A-Move Millennium (U) [C][!].gbc",
+      "label": "Bust-A-Move Millennium (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Buzz Lightyear of Star Command (U) [C][!].gbc",
+      "label": "Buzz Lightyear of Star Command (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Caesars Palace II (U) [C][!].gbc",
+      "label": "Caesars Palace II (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Cannon Fodder (U) (M5) [C][!].gbc",
+      "label": "Cannon Fodder (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Carl Lewis Athletics 2000 (U) (M6) [C][!].gbc",
+      "label": "Carl Lewis Athletics 2000 (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Carmageddon (UE) (M4) [C][!].gbc",
+      "label": "Carmageddon (UE) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Casper (U) [C][!].gbc",
+      "label": "Casper (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Caterpillar Construction Zone (U) [C][!].gbc",
+      "label": "Caterpillar Construction Zone (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Catwoman (U) [C][!].gbc",
+      "label": "Catwoman (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Catz - Your Virtual Petz Palz (U) [C][!].gbc",
+      "label": "Catz - Your Virtual Petz Palz (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Centipede (U) [C][!].gbc",
+      "label": "Centipede (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Championship Motocross 2001 featuring Ricky Carmichael (U) [C][!].gbc",
+      "label": "Championship Motocross 2001 featuring Ricky Carmichael (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Chase H.Q. - Secret Police (U) (Metro 3D re-release) [C][!].gbc",
+      "label": "Chase H.Q. - Secret Police (U) (Metro 3D re-release) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Chessmaster, The (U) [C][!].gbc",
+      "label": "Chessmaster, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Chicken Run (U) (M5) [C][!].gbc",
+      "label": "Chicken Run (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Commander Keen (U) [C][!].gbc",
+      "label": "Commander Keen (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Conker's Pocket Tales (UE) (M3) [C][!].gbc",
+      "label": "Conker's Pocket Tales (UE) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Croc (UE) [C][!].gbc",
+      "label": "Croc (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Croc 2 (U) [C].gbc",
+      "label": "Croc 2 (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Cruis'n Exotica (U) [C][!].gbc",
+      "label": "Cruis'n Exotica (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Crystalis (U) [C][!].gbc",
+      "label": "Crystalis (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Cubix - Robots For Everyone - Race 'N Robots (U) (M5) [C][!].gbc",
+      "label": "Cubix - Robots For Everyone - Race 'N Robots (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Cyber Tiger (U) [C][!].gbc",
+      "label": "Cyber Tiger (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Daffy Duck - Fowl Play (U) [C][!].gbc",
+      "label": "Daffy Duck - Fowl Play (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][T+Eng].gbc",
+      "label": "Daiku no Gensan - Kachikachi no Tonkachi ga Kachi (J) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dave Mirra Freestyle BMX (UE) [C][!].gbc",
+      "label": "Dave Mirra Freestyle BMX (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Deer Hunter (U) [C][!].gbc",
+      "label": "Deer Hunter (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Deja Vu I & II (U) [C][!].gbc",
+      "label": "Deja Vu I & II (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dexter's Laboratory - Robot Rampage (U) [C][!].gbc",
+      "label": "Dexter's Laboratory - Robot Rampage (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dinosaur (U) [C][!].gbc",
+      "label": "Dinosaur (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dinosaur'us (U) (M6) [C][!].gbc",
+      "label": "Dinosaur'us (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Disney's Tarzan (U) [C][!].gbc",
+      "label": "Disney's Tarzan (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Diva Starz - Mall Mania (U) [C][!].gbc",
+      "label": "Diva Starz - Mall Mania (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dogz - Your Virtual Petz Palz (U) [C][!].gbc",
+      "label": "Dogz - Your Virtual Petz Palz (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Donald Duck - Goin' Quackers (U) (M5) [C][!].gbc",
+      "label": "Donald Duck - Goin' Quackers (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Donkey Kong Country (UE) (M5) [C][!].gbc",
+      "label": "Donkey Kong Country (UE) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Doug's Big Game (U) [C][!].gbc",
+      "label": "Doug's Big Game (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dracula - Crazy Vampire (U) [C][!].gbc",
+      "label": "Dracula - Crazy Vampire (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Ball Z - Legendary Super Warriors (U) [C].gbc",
+      "label": "Dragon Ball Z - Legendary Super Warriors (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Dance (U) [C][!].gbc",
+      "label": "Dragon Dance (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Tales - Dragon Adventures (U) [C][!].gbc",
+      "label": "Dragon Tales - Dragon Adventures (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Tales - Dragon Wings (U) [C][!].gbc",
+      "label": "Dragon Tales - Dragon Wings (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Warrior I & II (U) [C][!].gbc",
+      "label": "Dragon Warrior I & II (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Warrior III (U) [C][!].gbc",
+      "label": "Dragon Warrior III (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Warrior Monsters (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Warrior Monsters 2 - Cobi's Journey (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters 2 - Cobi's Journey (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon Warrior Monsters 2 - Tara's Adventure (U) [C][!].gbc",
+      "label": "Dragon Warrior Monsters 2 - Tara's Adventure (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dragon's Lair (U) (M6) [C][!].gbc",
+      "label": "Dragon's Lair (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Driver - You Are The Wheelman (U) (M5) [C][!].gbc",
+      "label": "Driver - You Are The Wheelman (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dropzone (U) [C][!].gbc",
+      "label": "Dropzone (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Duke Nukem (U) (M5) [C][!].gbc",
+      "label": "Duke Nukem (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Dukes of Hazzard, The - Racing for Home (U) [C][!].gbc",
+      "label": "Dukes of Hazzard, The - Racing for Home (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/E.T. The Extra Terrestrial - Digital Companion (U) [C].gbc",
+      "label": "E.T. The Extra Terrestrial - Digital Companion (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/E.T. The Extra Terrestrial - Escape from Planet Earth (U) [C][!].gbc",
+      "label": "E.T. The Extra Terrestrial - Escape from Planet Earth (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/E.T. The Extra-Terrestrial and the Cosmic Garden (U) [C][!].gbc",
+      "label": "E.T. The Extra-Terrestrial and the Cosmic Garden (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/ECW Hardcore Revolution (U) [C][!].gbc",
+      "label": "ECW Hardcore Revolution (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/ESPN International Track & Field (U) [C][!].gbc",
+      "label": "ESPN International Track & Field (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/ESPN National Hockey Night (U) [C][!].gbc",
+      "label": "ESPN National Hockey Night (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Earthworm Jim - Menace 2 the Galaxy (U) [C][!].gbc",
+      "label": "Earthworm Jim - Menace 2 the Galaxy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Elmo in Grouchland (U) [C][!].gbc",
+      "label": "Elmo in Grouchland (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Elmo's 123s (U) [C][!].gbc",
+      "label": "Elmo's 123s (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Elmo's ABCs (U) [C][!].gbc",
+      "label": "Elmo's ABCs (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Emperor's New Groove, The (U) [C][!].gbc",
+      "label": "Emperor's New Groove, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Evel Knievel (U) [C][!].gbc",
+      "label": "Evel Knievel (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Extreme Sports with The Berenstain Bears (U) (M5) [C][!].gbc",
+      "label": "Extreme Sports with The Berenstain Bears (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/F-1 World Grand Prix (U) (M4) [C][!].gbc",
+      "label": "F-1 World Grand Prix (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/F-1 World Grand Prix II (U) (M4) [C][!].gbc",
+      "label": "F-1 World Grand Prix II (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/F-18 Thunder Strike (U) [C][!].gbc",
+      "label": "F-18 Thunder Strike (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/F.A. Premier League Stars 2001, The (U) [C][!].gbc",
+      "label": "F.A. Premier League Stars 2001, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/FIFA 2000 (U) [C][!].gbc",
+      "label": "FIFA 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/FREME Tuner (U) [C].gbc",
+      "label": "FREME Tuner (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Final Fantasy X - Fantasy War (Unl) [C].gbc",
+      "label": "Final Fantasy X - Fantasy War (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Flintstones, The - Burgertime in Bedrock (U) [C][!].gbc",
+      "label": "Flintstones, The - Burgertime in Bedrock (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Force 21 (U) (M3) [C][!].gbc",
+      "label": "Force 21 (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Formula One 2000 (U) [C][!].gbc",
+      "label": "Formula One 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Frogger (U) [C][!].gbc",
+      "label": "Frogger (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Frogger 2 (U) [C][!].gbc",
+      "label": "Frogger 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Funk the 9 Ball (J) [C][T+Eng_PR].gbc",
+      "label": "Funk the 9 Ball (J) [C][T+Eng_PR]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/GPSboy (U) [C].gbc",
+      "label": "GPSboy (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Galaga - Destination Earth (U) [C][!].gbc",
+      "label": "Galaga - Destination Earth (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Game & Watch Gallery 2 (UE) [C][!].gbc",
+      "label": "Game & Watch Gallery 2 (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Game & Watch Gallery 3 (UE) [C][!].gbc",
+      "label": "Game & Watch Gallery 3 (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gameboy Wars 2 (J) [C][T+Eng1.02_TransBRC].gbc",
+      "label": "Gameboy Wars 2 (J) [C][T+Eng1.02_TransBRC]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gameboy Wars 3 (J) [C][T+Eng0.05_aka].gbc",
+      "label": "Gameboy Wars 3 (J) [C][T+Eng0.05_aka]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gex - Enter the Gecko (U) [C][!].gbc",
+      "label": "Gex - Enter the Gecko (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gex 3 - Deep Cover Gecko (U) [C][!].gbc",
+      "label": "Gex 3 - Deep Cover Gecko (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ghosts 'N Goblins (U) [C][!].gbc",
+      "label": "Ghosts 'N Goblins (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gobs of Games (U) (M3) [C][!].gbc",
+      "label": "Gobs of Games (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Godzilla - The Series - Monster Wars (U) (M3) [C][!].gbc",
+      "label": "Godzilla - The Series - Monster Wars (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Gold and Glory - The Road to El Dorado (U) [C][!].gbc",
+      "label": "Gold and Glory - The Road to El Dorado (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Grand Theft Auto (U) [C][!].gbc",
+      "label": "Grand Theft Auto (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Grand Theft Auto 2 (U) [C][!].gbc",
+      "label": "Grand Theft Auto 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Grinch, The (U) [C][!].gbc",
+      "label": "Grinch, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hang Time Basketball (Unl) [C][!].gbc",
+      "label": "Hang Time Basketball (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harley-Davidson - Race Across America (U) [C][!].gbc",
+      "label": "Harley-Davidson - Race Across America (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harry Potter and The Chamber of Secrets (UE) (M10) [C][!].gbc",
+      "label": "Harry Potter and The Chamber of Secrets (UE) (M10) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harry Potter and The Sorcerer's Stone (UE) (M13) [C][!].gbc",
+      "label": "Harry Potter and The Sorcerer's Stone (UE) (M13) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harvest Moon 2 GBC (U) [C][!].gbc",
+      "label": "Harvest Moon 2 GBC (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harvest Moon 3 GBC (U) [C][!].gbc",
+      "label": "Harvest Moon 3 GBC (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Harvest Moon GB (U) [C][!].gbc",
+      "label": "Harvest Moon GB (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hello Kitty no Magical Museum (J) [C][T+Eng1.0_dokidoki].gbc",
+      "label": "Hello Kitty no Magical Museum (J) [C][T+Eng1.0_dokidoki]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hello Kitty's Cube Frenzy (U) [C][!].gbc",
+      "label": "Hello Kitty's Cube Frenzy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hercules - The Legendary Journeys (U) (M6) [C][!].gbc",
+      "label": "Hercules - The Legendary Journeys (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Heroes of Might and Magic (U) (M3) [C][!].gbc",
+      "label": "Heroes of Might and Magic (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Heroes of Might and Magic II (U) (M3) [C][!].gbc",
+      "label": "Heroes of Might and Magic II (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Heroic Sword (Unl) [C].gbc",
+      "label": "Heroic Sword (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hexcite - The Shapes of Victory (U) [C][!].gbc",
+      "label": "Hexcite - The Shapes of Victory (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hole in One Golf (U) [C][!].gbc",
+      "label": "Hole in One Golf (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hollywood Pinball (UE) (M4) [C][!].gbc",
+      "label": "Hollywood Pinball (UE) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hot Wheels - Stunt Track Driver (U) [C][!].gbc",
+      "label": "Hot Wheels - Stunt Track Driver (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hoyle Card Games (U) [C][!].gbc",
+      "label": "Hoyle Card Games (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Hoyle Casino (U) [C][!].gbc",
+      "label": "Hoyle Casino (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ice Age (Unl) [C].gbc",
+      "label": "Ice Age (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ice Age II (Unl) [C].gbc",
+      "label": "Ice Age II (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Indiana Jones and the Infernal Machine (U) (M3) [C][!].gbc",
+      "label": "Indiana Jones and the Infernal Machine (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Inspector Gadget - Operation Madkactus (U) [C][!].gbc",
+      "label": "Inspector Gadget - Operation Madkactus (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/International Rally (U) [C][!].gbc",
+      "label": "International Rally (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/International Superstar Soccer '99 (U) [C][!].gbc",
+      "label": "International Superstar Soccer '99 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/International Superstar Soccer 2000 (U) [C][!].gbc",
+      "label": "International Superstar Soccer 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/International Track & Field (U) [C][!].gbc",
+      "label": "International Track & Field (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Jeff Gordon XS Racing (U) [C][!].gbc",
+      "label": "Jeff Gordon XS Racing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Jeremy McGrath Supercross 2000 (U) [C][!].gbc",
+      "label": "Jeremy McGrath Supercross 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Joust & Defender (U) [C][!].gbc",
+      "label": "Joust & Defender (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/JumpStart Dino Adventure - Field Trip (U) [C].gbc",
+      "label": "JumpStart Dino Adventure - Field Trip (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Jungle Book, The - Mowgli's Wild Adventure (U) (M5) [C][!].gbc",
+      "label": "Jungle Book, The - Mowgli's Wild Adventure (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Karate Joe (Unl) [C][!].gbc",
+      "label": "Karate Joe (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Kelly Club - Clubhouse Fun (U) [C][!].gbc",
+      "label": "Kelly Club - Clubhouse Fun (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ken Griffey Jr.'s Slugfest (U) [C][!].gbc",
+      "label": "Ken Griffey Jr.'s Slugfest (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][T+Eng0.1_Six_Feet_Under].gbc",
+      "label": "Kettou Beast Wars - Beast Senshi Saikyou Ketteisen (J) [C][T+Eng0.1_Six_Feet_Under]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/King of Fighters R-2 (Unl) [C].gbc",
+      "label": "King of Fighters R-2 (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Kirby's Tilt 'n' Tumble (U) [C][!].gbc",
+      "label": "Kirby's Tilt 'n' Tumble (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Klax (U) [C][!].gbc",
+      "label": "Klax (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Klustar (U) [C][!].gbc",
+      "label": "Klustar (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Knockout Kings (UE) [C][!].gbc",
+      "label": "Knockout Kings (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/LEGO Alpha Team (U) [C][!].gbc",
+      "label": "LEGO Alpha Team (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/LEGO Island 2 - The Brickster's Revenge (U) (M3) [C][!].gbc",
+      "label": "LEGO Island 2 - The Brickster's Revenge (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/LEGO Racers (U) (M3) [C][!].gbc",
+      "label": "LEGO Racers (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/LEGO Stunt Rally (U) [C][!].gbc",
+      "label": "LEGO Stunt Rally (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Land Before Time, The (U) [C][!].gbc",
+      "label": "Land Before Time, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Las Vegas Cool Hand (U) [C][!].gbc",
+      "label": "Las Vegas Cool Hand (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Laura (U) [C][!].gbc",
+      "label": "Laura (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of Heroes (Unl) [C][!].gbc",
+      "label": "Legend of Heroes (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of Zelda, The - Oracle of Ages (U) [C][!].gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of Zelda, The - Oracle of Seasons (U) [C][!].gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of the River King 2 (U) [C][!].gbc",
+      "label": "Legend of the River King 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Legend of the River King GB (U) [C][!].gbc",
+      "label": "Legend of the River King GB (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Lemmings & Oh No! More Lemmings (U) [C][!].gbc",
+      "label": "Lemmings & Oh No! More Lemmings (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Lil' Monster (U) [C][!].gbc",
+      "label": "Lil' Monster (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Lion King, The - Simba's Mighty Adventure (U) [C][!].gbc",
+      "label": "Lion King, The - Simba's Mighty Adventure (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Little Magic (J) [C][T+Eng1.0_SGST].gbc",
+      "label": "Little Magic (J) [C][T+Eng1.0_SGST]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Little Mermaid II, The - Pinball Frenzy (U) (M5) [C][!].gbc",
+      "label": "Little Mermaid II, The - Pinball Frenzy (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Little Nicky (U) [C][!].gbc",
+      "label": "Little Nicky (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Logical (U) (Sunsoft) [C][!].gbc",
+      "label": "Logical (U) (Sunsoft) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Logical (U) (THQ) [C][!].gbc",
+      "label": "Logical (U) (THQ) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Looney Tunes (U) [C][!].gbc",
+      "label": "Looney Tunes (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Looney Tunes Collector - Alert! (U) (M3) [C][!].gbc",
+      "label": "Looney Tunes Collector - Alert! (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Looney Tunes Racing (U) (M6) [C][!].gbc",
+      "label": "Looney Tunes Racing (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Lucky Luke (U) (M4) [C][!].gbc",
+      "label": "Lucky Luke (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Lufia - The Legend Returns (U) [C][!].gbc",
+      "label": "Lufia - The Legend Returns (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/M&M's Minis Madness (U) [C][!].gbc",
+      "label": "M&M's Minis Madness (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/MTV Sports - Pure Ride (U) [C][!].gbc",
+      "label": "MTV Sports - Pure Ride (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/MTV Sports - Skateboarding featuring Andy MacDonald (U) [C][!].gbc",
+      "label": "MTV Sports - Skateboarding featuring Andy MacDonald (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/MTV Sports - T.J. Lavin's Ultimate BMX (U) [C][!].gbc",
+      "label": "MTV Sports - T.J. Lavin's Ultimate BMX (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Madden NFL 2000 (U) [C][!].gbc",
+      "label": "Madden NFL 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Madden NFL 2001 (U) [C][!].gbc",
+      "label": "Madden NFL 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Madden NFL 2002 (U) [C][!].gbc",
+      "label": "Madden NFL 2002 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Magi Nation (U) [C][!].gbc",
+      "label": "Magi Nation (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Magic Monkey (Unl) [C].gbc",
+      "label": "Magic Monkey (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Magical Chase GB (J) [C][T+Eng1.00_Gaijin Productions].gbc",
+      "label": "Magical Chase GB (J) [C][T+Eng1.00_Gaijin Productions]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Magical Drop (U) [C][!].gbc",
+      "label": "Magical Drop (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Magical Tetris Challenge (U) [C][!].gbc",
+      "label": "Magical Tetris Challenge (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Marble Madness (U) [C][!].gbc",
+      "label": "Marble Madness (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mario Golf (U) [C][!].gbc",
+      "label": "Mario Golf (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mario Tennis (U) [C][!].gbc",
+      "label": "Mario Tennis (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mark of the Wolfs (Unl) [C].gbc",
+      "label": "Mark of the Wolfs (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mark of the Wolves (Unl) [C].gbc",
+      "label": "Mark of the Wolves (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Marvin Strikes Back! (U) (M3) [C].gbc",
+      "label": "Marvin Strikes Back! (U) (M3) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mary-Kate & Ashley - Crush Course (U) [C][!].gbc",
+      "label": "Mary-Kate & Ashley - Crush Course (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mary-Kate & Ashley - Get a Clue! (U) [C][!].gbc",
+      "label": "Mary-Kate & Ashley - Get a Clue! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mary-Kate & Ashley - Pocket Planner (U) [C][!].gbc",
+      "label": "Mary-Kate & Ashley - Pocket Planner (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mary-Kate & Ashley - Winners Circle (U) [C][!].gbc",
+      "label": "Mary-Kate & Ashley - Winners Circle (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mask of Zorro, The (U) [C][!].gbc",
+      "label": "Mask of Zorro, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mat Hoffman's Pro BMX (U) [C][!].gbc",
+      "label": "Mat Hoffman's Pro BMX (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Matchbox - Emergency Patrol (U) [C][!].gbc",
+      "label": "Matchbox - Emergency Patrol (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Megaman Xtreme (U) [C][!].gbc",
+      "label": "Megaman Xtreme (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Megaman Xtreme 2 (U) [C][!].gbc",
+      "label": "Megaman Xtreme 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][T+Eng0.1_Lady Mariann].gbc",
+      "label": "Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][T+Eng0.1_Lady Mariann]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Men In Black - The Series (U) [C][!].gbc",
+      "label": "Men In Black - The Series (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Men In Black 2 - The Series (U) (M3) [C][!].gbc",
+      "label": "Men In Black 2 - The Series (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metal Gear Solid (U) [C][!].gbc",
+      "label": "Metal Gear Solid (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metal Slug (Unl) [C][T+Eng].gbc",
+      "label": "Metal Slug (Unl) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metal Slug 2001 (Unl) [C][T+Eng].gbc",
+      "label": "Metal Slug 2001 (Unl) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metal Walker (U) [C][!].gbc",
+      "label": "Metal Walker (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metroid II - Return of Samus (Color Patch Hack) [C].gbc",
+      "label": "Metroid II - Return of Samus (Color Patch Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Metroid II - Return of Samus by Zorlon (Hack) [C].gbc",
+      "label": "Metroid II - Return of Samus by Zorlon (Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mia Hamm Soccer Shootout (U) [C][!].gbc",
+      "label": "Mia Hamm Soccer Shootout (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mickey's Racing Adventure (U) (M5) [C][!].gbc",
+      "label": "Mickey's Racing Adventure (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mickey's Speedway USA (U) (M4) [C][!].gbc",
+      "label": "Mickey's Speedway USA (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Micro Machines 1 and 2 - Twin Turbo (U) [C][!].gbc",
+      "label": "Micro Machines 1 and 2 - Twin Turbo (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Micro Machines V3 (U) [C][!].gbc",
+      "label": "Micro Machines V3 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Microsoft Entertainment Pack (U) [C][!].gbc",
+      "label": "Microsoft Entertainment Pack (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Microsoft Pinball Arcade (U) [C][!].gbc",
+      "label": "Microsoft Pinball Arcade (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Microsoft Puzzle Collection (U) [C].gbc",
+      "label": "Microsoft Puzzle Collection (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Millenium Winter Sports (U) [C][!].gbc",
+      "label": "Millenium Winter Sports (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Missile Command (U) [C][!].gbc",
+      "label": "Missile Command (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mission Impossible (U) (M3) [C][!].gbc",
+      "label": "Mission Impossible (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Monopoly (U) [C][!].gbc",
+      "label": "Monopoly (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Monster Rancher Battle Card GB (U) [C][!].gbc",
+      "label": "Monster Rancher Battle Card GB (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Monster Rancher Explorer (U) [C][!].gbc",
+      "label": "Monster Rancher Explorer (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Monsters, Inc. (U) [C][!].gbc",
+      "label": "Monsters, Inc. (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Montezuma's Return (U) (M2) [C][!].gbc",
+      "label": "Montezuma's Return (U) (M2) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Moomin's Tale (U) (M3) [C][!].gbc",
+      "label": "Moomin's Tale (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Moon Patrol & Spy Hunter (U) [C][!].gbc",
+      "label": "Moon Patrol & Spy Hunter (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mortal Kombat 4 (U) [C][!].gbc",
+      "label": "Mortal Kombat 4 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Motocross Maniacs 2 (U) [C][!].gbc",
+      "label": "Motocross Maniacs 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mr Nutz (U) (M3) [C][!].gbc",
+      "label": "Mr Nutz (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mr. Driller (U) [C][!].gbc",
+      "label": "Mr. Driller (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ms. Pac-Man Special Color Edition (U) [C][!].gbc",
+      "label": "Ms. Pac-Man Special Color Edition (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mummy Returns, The (U) [C][!].gbc",
+      "label": "Mummy Returns, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Mummy, The (U) [C][!].gbc",
+      "label": "Mummy, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Muppets, The (U) [C][!].gbc",
+      "label": "Muppets, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NASCAR Challenge (U) [C][!].gbc",
+      "label": "NASCAR Challenge (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NASCAR Heat (U) [C][!].gbc",
+      "label": "NASCAR Heat (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NASCAR Racers (U) [C][!].gbc",
+      "label": "NASCAR Racers (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA 3 on 3 featuring Kobe Bryant (U) [C][!].gbc",
+      "label": "NBA 3 on 3 featuring Kobe Bryant (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA Hoopz (U) [C][!].gbc",
+      "label": "NBA Hoopz (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA In The Zone (U) [C][!].gbc",
+      "label": "NBA In The Zone (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA In The Zone 2000 (U) [C][!].gbc",
+      "label": "NBA In The Zone 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA Jam '99 (UE) [C][!].gbc",
+      "label": "NBA Jam '99 (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA Jam 2001 (U) [C][!].gbc",
+      "label": "NBA Jam 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NBA Showtime - NBA on NBC (U) [C][!].gbc",
+      "label": "NBA Showtime - NBA on NBC (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NFL Blitz (U) (V1.1) [C][!].gbc",
+      "label": "NFL Blitz (U) (V1.1) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NFL Blitz 2000 (U) [C][!].gbc",
+      "label": "NFL Blitz 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NFL Blitz 2001 (U) [C][!].gbc",
+      "label": "NFL Blitz 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NHL 2000 (U) [C][!].gbc",
+      "label": "NHL 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NHL Blades of Steel (U) [C][!].gbc",
+      "label": "NHL Blades of Steel (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NHL Blades of Steel 2000 (U) [C][!].gbc",
+      "label": "NHL Blades of Steel 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/NSYNC - Get to the Show (U) [C][!].gbc",
+      "label": "NSYNC - Get to the Show (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/New Adventures of Mary-Kate & Ashley, The (U) [C][!].gbc",
+      "label": "New Adventures of Mary-Kate & Ashley, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/New Batman Adventures, The - Chaos in Gotham (U) [C][!].gbc",
+      "label": "New Batman Adventures, The - Chaos in Gotham (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Nicktoons' Racing (U) [C][!].gbc",
+      "label": "Nicktoons' Racing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Nobunaga no Yabou - GameBoy Ban 2 (J) [C][T+Eng].gbc",
+      "label": "Nobunaga no Yabou - GameBoy Ban 2 (J) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Othello Millennium (J) [C][T+Eng0.001_Dark Tetsuya].gbc",
+      "label": "Othello Millennium (J) [C][T+Eng0.001_Dark Tetsuya]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pac-Man Special Color Edition (U) [C][!].gbc",
+      "label": "Pac-Man Special Color Edition (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Painter (Unl) [C][!].gbc",
+      "label": "Painter (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Paperboy (U) [C][!].gbc",
+      "label": "Paperboy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Perfect Dark (U) (M5) [C][!].gbc",
+      "label": "Perfect Dark (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pitfall - Beyond the Jungle (U) [C][!].gbc",
+      "label": "Pitfall - Beyond the Jungle (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Planet of the Apes (U) (M6) [C][!].gbc",
+      "label": "Planet of the Apes (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Bomberman (U) [C][!].gbc",
+      "label": "Pocket Bomberman (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Bowling (U) [C][!].gbc",
+      "label": "Pocket Bowling (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters - Crystal Version (J) [C][T-Eng].gbc",
+      "label": "Pocket Monsters - Crystal Version (J) [C][T-Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters - Crystal Version (Unl) [C].gbc",
+      "label": "Pocket Monsters - Crystal Version (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters GO! GO! - The Pikachu Nightmare (Unl) [C][!].gbc",
+      "label": "Pocket Monsters GO! GO! - The Pikachu Nightmare (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters GO!GO!GO! (Unl) [C][!].gbc",
+      "label": "Pocket Monsters GO!GO!GO! (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters Gin (J) (V1.1) [C][T+Eng1.08_Vida].gbc",
+      "label": "Pocket Monsters Gin (J) (V1.1) [C][T+Eng1.08_Vida]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Monsters Kin (J) (V1.1) [C][T-Eng2.70_PR].gbc",
+      "label": "Pocket Monsters Kin (J) (V1.1) [C][T-Eng2.70_PR]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Smash Out & Race Time (Unl) [C][!].gbc",
+      "label": "Pocket Smash Out & Race Time (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Smash Out (Unl) [C][!].gbc",
+      "label": "Pocket Smash Out (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pocket Soccer (U) (M6) [C][!].gbc",
+      "label": "Pocket Soccer (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon - Crystal Version (UE) (V1.1) [C][!].gbc",
+      "label": "Pokemon - Crystal Version (UE) (V1.1) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon - Gold Version (UE) [C][!].gbc",
+      "label": "Pokemon - Gold Version (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon - Silver Version (UE) [C][!].gbc",
+      "label": "Pokemon - Silver Version (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon - Yellow Version (UE) [C][!].gbc",
+      "label": "Pokemon - Yellow Version (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon 2004 (Unl) [C].gbc",
+      "label": "Pokemon 2004 (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Adventure (Unl) [C][!].gbc",
+      "label": "Pokemon Adventure (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Card GB (J) [C][T+Eng].gbc",
+      "label": "Pokemon Card GB (J) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Card GB2 - GR Dan Sanjou! (J) [C][T+Eng_metranslations].gbc",
+      "label": "Pokemon Card GB2 - GR Dan Sanjou! (J) [C][T+Eng_metranslations]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Crystal ALL V1.5 (Hack) [C].gbc",
+      "label": "Pokemon Crystal ALL V1.5 (Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Diamond (Keitai Denjuu Telefang - Power Version Hack) [p1][C][!].gbc",
+      "label": "Pokemon Diamond (Keitai Denjuu Telefang - Power Version Hack) [p1][C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Pinball (U) [C][!].gbc",
+      "label": "Pokemon Pinball (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Puzzle Challenge (U) [C][!].gbc",
+      "label": "Pokemon Puzzle Challenge (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pokemon Trading Card Game (U) [C][!].gbc",
+      "label": "Pokemon Trading Card Game (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Polaris SnoCross (U) [C][!].gbc",
+      "label": "Polaris SnoCross (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pong - The Next Level (U) [C][!].gbc",
+      "label": "Pong - The Next Level (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pooh and Tigger's Hunny Safari (U) [C][!].gbc",
+      "label": "Pooh and Tigger's Hunny Safari (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Portal Runner (U) [C][!].gbc",
+      "label": "Portal Runner (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Power Quest (U) (M6) [C][!].gbc",
+      "label": "Power Quest (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Power Rangers - Lightspeed Rescue (U) [C][!].gbc",
+      "label": "Power Rangers - Lightspeed Rescue (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Power Rangers - Time Force (U) [C][!].gbc",
+      "label": "Power Rangers - Time Force (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Power Spike - Pro Beach Volleyball (U) [C][!].gbc",
+      "label": "Power Spike - Pro Beach Volleyball (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Powerpuff Girls, The - Bad Mojo Jojo (U) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Bad Mojo Jojo (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Powerpuff Girls, The - Battle Him (U) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Battle Him (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Powerpuff Girls, The - Paint the Townsville Green (U) (V1.2) [C][!].gbc",
+      "label": "Powerpuff Girls, The - Paint the Townsville Green (U) (V1.2) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pro Darts (U) [C][!].gbc",
+      "label": "Pro Darts (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Pro Pool (U) (M3) [C][!].gbc",
+      "label": "Pro Pool (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Project S-11 (U) [C][!].gbc",
+      "label": "Project S-11 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Puzzle Master (U) [C][!].gbc",
+      "label": "Puzzle Master (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Puzzled (U) [C][!].gbc",
+      "label": "Puzzled (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Q-bert (U) [C][!].gbc",
+      "label": "Q-bert (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Quest - Fantasy Challenge (U) [C][!].gbc",
+      "label": "Quest - Fantasy Challenge (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Quest RPG - Brian's Journey (U) [C][!].gbc",
+      "label": "Quest RPG - Brian's Journey (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Quest for Camelot (U) (M3) [C][!].gbc",
+      "label": "Quest for Camelot (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/R-Type DX (U) [C][!].gbc",
+      "label": "R-Type DX (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/RPG Tsukuru GB (J) [C][T-Eng0.99_Magecraft].gbc",
+      "label": "RPG Tsukuru GB (J) [C][T-Eng0.99_Magecraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Race Time (Unl) [C][!].gbc",
+      "label": "Race Time (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rampage - World Tour (U) [C][!].gbc",
+      "label": "Rampage - World Tour (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rampage 2 - Universal Tour (U) [C][!].gbc",
+      "label": "Rampage 2 - Universal Tour (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rampart (U) [C][!].gbc",
+      "label": "Rampart (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rats! (U) (M2) [C][!].gbc",
+      "label": "Rats! (U) (M2) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rayman (U) (M6) [C][!].gbc",
+      "label": "Rayman (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rayman 2 - The Great Escape (U) (M5) [C][!].gbc",
+      "label": "Rayman 2 - The Great Escape (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Razor Freestyle Scooter (U) [C][!].gbc",
+      "label": "Razor Freestyle Scooter (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ready 2 Rumble Boxing (U) [C][!].gbc",
+      "label": "Ready 2 Rumble Boxing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rescue Heroes - Fire Frenzy (U) [C][!].gbc",
+      "label": "Rescue Heroes - Fire Frenzy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Resident Evil Gaiden (U) [C][!].gbc",
+      "label": "Resident Evil Gaiden (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Return of the Ninja (U) [C][!].gbc",
+      "label": "Return of the Ninja (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Revelations - The Demon Slayer (U) [C][!].gbc",
+      "label": "Revelations - The Demon Slayer (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rhino Rumble (U) [C][!].gbc",
+      "label": "Rhino Rumble (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Road Champs - BXS Stunt Biking (U) [C][!].gbc",
+      "label": "Road Champs - BXS Stunt Biking (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Road Rash (U) [C][!].gbc",
+      "label": "Road Rash (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Roadsters '98 (U) [C][!].gbc",
+      "label": "Roadsters '98 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Robocop (U) (M6) [C][!].gbc",
+      "label": "Robocop (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Robopon - Sun Version (U) [C][!].gbc",
+      "label": "Robopon - Sun Version (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rocket Power - Gettin' Air (U) [C][!].gbc",
+      "label": "Rocket Power - Gettin' Air (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rocky Mountain Trophy Hunter (U) [C][!].gbc",
+      "label": "Rocky Mountain Trophy Hunter (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ronaldo V.Soccer (U) (M4) [C][!].gbc",
+      "label": "Ronaldo V.Soccer (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Roswell Conspiracies - Aliens, Myths & Legends (U) (M3) [C][!].gbc",
+      "label": "Roswell Conspiracies - Aliens, Myths & Legends (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rugrats - Time Travelers (U) [C][!].gbc",
+      "label": "Rugrats - Time Travelers (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rugrats - Totally Angelica (U) [C][!].gbc",
+      "label": "Rugrats - Totally Angelica (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rugrats Movie, The (U) [C][!].gbc",
+      "label": "Rugrats Movie, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Rugrats in Paris - The Movie (U) [C][!].gbc",
+      "label": "Rugrats in Paris - The Movie (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/SHARK MX (Unl) [C][!].gbc",
+      "label": "SHARK MX (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sabrina - The Animated Series - Spooked! (U) [C][!].gbc",
+      "label": "Sabrina - The Animated Series - Spooked! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sabrina - The Animated Series - Zapped! (U) [C][!].gbc",
+      "label": "Sabrina - The Animated Series - Zapped! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/San Francisco Rush 2049 (U) [C][!].gbc",
+      "label": "San Francisco Rush 2049 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sanrio Timenet - Mirai Hen (J) [C][T+Eng0.8_Katalyst_Translations].gbc",
+      "label": "Sanrio Timenet - Mirai Hen (J) [C][T+Eng0.8_Katalyst_Translations]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Scooby-Doo! - Classic Creep Capers (U) [C][!].gbc",
+      "label": "Scooby-Doo! - Classic Creep Capers (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sesame Street Sports (U) [C].gbc",
+      "label": "Sesame Street Sports (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sgt. Rock - On The Front Line (U) [C][!].gbc",
+      "label": "Sgt. Rock - On The Front Line (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shamus (U) [C][!].gbc",
+      "label": "Shamus (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shanghai Pocket (U) (V1.1) [C][!].gbc",
+      "label": "Shanghai Pocket (U) (V1.1) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shantae (U) [C][!].gbc",
+      "label": "Shantae (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shaun Palmer's Pro Snowboarder (U) [C][!].gbc",
+      "label": "Shaun Palmer's Pro Snowboarder (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][T+Eng1.6_Shadowsithe].gbc",
+      "label": "Shin Megami Tensei Devil Children - Kuro no Shou (J) [C][T+Eng1.6_Shadowsithe]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Shrek - Fairy Tale Freakdown (U) (M6) [C][!].gbc",
+      "label": "Shrek - Fairy Tale Freakdown (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Simpsons, The - Night of the Living Treehouse of Horror (U) [C][!].gbc",
+      "label": "Simpsons, The - Night of the Living Treehouse of Horror (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sky Dragon (Unl) [C].gbc",
+      "label": "Sky Dragon (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Smurfs Nightmare, The (U) [C][!].gbc",
+      "label": "Smurfs Nightmare, The (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Snoopy Tennis (U) (M3) [C][!].gbc",
+      "label": "Snoopy Tennis (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Snow White and the Seven Dwarfs (U) [C].gbc",
+      "label": "Snow White and the Seven Dwarfs (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Snowboard Champion (J) [C][T-Eng_MageCraft].gbc",
+      "label": "Snowboard Champion (J) [C][T-Eng_MageCraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sonic 7 (Unl) [C].gbc",
+      "label": "Sonic 7 (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Soul Falchion (Unl) [C].gbc",
+      "label": "Soul Falchion (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Soul Getter - Houkago Bouken RPG (J) [C][T+Eng0.10_Magecraft].gbc",
+      "label": "Soul Getter - Houkago Bouken RPG (J) [C][T+Eng0.10_Magecraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Space Invaders (U) [C][!].gbc",
+      "label": "Space Invaders (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Space Invasion & Karate Joe (Unl) [C][!].gbc",
+      "label": "Space Invasion & Karate Joe (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Space Invasion (Unl) [C][!].gbc",
+      "label": "Space Invasion (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Space Marauder (U) [C][!].gbc",
+      "label": "Space Marauder (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Spawn (U) [C][!].gbc",
+      "label": "Spawn (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Speedy Gonzales - Aztec Adventure (U) [C][!].gbc",
+      "label": "Speedy Gonzales - Aztec Adventure (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Spider-Man (U) [C][!].gbc",
+      "label": "Spider-Man (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Spider-Man 2 - The Sinister Six (U) [C][!].gbc",
+      "label": "Spider-Man 2 - The Sinister Six (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/SpongeBob SquarePants - Legend of the Lost Spatula (U) [C][!].gbc",
+      "label": "SpongeBob SquarePants - Legend of the Lost Spatula (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Spy vs. Spy (U) [C][!].gbc",
+      "label": "Spy vs. Spy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Star Wars Episode I - Obi-Wan's Adventures (U) [C][!].gbc",
+      "label": "Star Wars Episode I - Obi-Wan's Adventures (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Star Wars Episode I - Racer (UE) [C][!].gbc",
+      "label": "Star Wars Episode I - Racer (UE) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Stone Age (Unl) [C].gbc",
+      "label": "Stone Age (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Street Fighter Alpha - Warriors' Dreams (U) [C][!].gbc",
+      "label": "Street Fighter Alpha - Warriors' Dreams (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Stuart Little - The Journey Home (U) [C][!].gbc",
+      "label": "Stuart Little - The Journey Home (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Breakout! (U) [C][!].gbc",
+      "label": "Super Breakout! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Chinese Fighter EX (J) [C][T+Eng_Opus].gbc",
+      "label": "Super Chinese Fighter EX (J) [C][T+Eng_Opus]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Fighters '99 (Unl) [C].gbc",
+      "label": "Super Fighters '99 (Unl) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc",
+      "label": "Super Mario Bros. Deluxe (U) (V1.1) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Mario Land (W) (V1.1) (Color Hack) [C].gbc",
+      "label": "Super Mario Land (W) (V1.1) (Color Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Mario Land (W) (V1.1) (New Color GFX 2.0 Hack) [C].gbc",
+      "label": "Super Mario Land (W) (V1.1) (New Color GFX 2.0 Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Mario Land (W) (V1.1) (New Color GFX 3.0 Hack) [C].gbc",
+      "label": "Super Mario Land (W) (V1.1) (New Color GFX 3.0 Hack) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Super Mario Special 3 (Unl) [C][b1].gbc",
+      "label": "Super Mario Special 3 (Unl) [C][b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Survival Kids (U) [C][!].gbc",
+      "label": "Survival Kids (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sylvanian Families - Otogi no Kuni no Pendant (J) [C][T+Eng1.0_Watercrown].gbc",
+      "label": "Sylvanian Families - Otogi no Kuni no Pendant (J) [C][T+Eng1.0_Watercrown]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Sylvester and Tweety (U) (M3) [C][!].gbc",
+      "label": "Sylvester and Tweety (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/TNN Outdoors Fishing Champ (U) [C][!].gbc",
+      "label": "TNN Outdoors Fishing Champ (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/TOCA Touring Car Championship (U) [C][!].gbc",
+      "label": "TOCA Touring Car Championship (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tazmanian Devil - Munching Madness (U) (M5) [C][!].gbc",
+      "label": "Tazmanian Devil - Munching Madness (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tech Deck Skateboarding (U) [C][!].gbc",
+      "label": "Tech Deck Skateboarding (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Test Drive 2001 (U) [C][!].gbc",
+      "label": "Test Drive 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Test Drive 6 (U) [C][!].gbc",
+      "label": "Test Drive 6 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Test Drive Cycles (U) [C][!].gbc",
+      "label": "Test Drive Cycles (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Test Drive Le Mans (U) (M3) [C][!].gbc",
+      "label": "Test Drive Le Mans (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Test Drive Off-Road 3 (U) [C][!].gbc",
+      "label": "Test Drive Off-Road 3 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tetris DX (JU) [C][!].gbc",
+      "label": "Tetris DX (JU) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Three Lions (U) (M7) [C][!].gbc",
+      "label": "Three Lions (U) (M7) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tiger Woods PGA Tour 2000 (U) [C][!].gbc",
+      "label": "Tiger Woods PGA Tour 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tiny Toon Adventures - Buster Saves the Day (U) [C][!].gbc",
+      "label": "Tiny Toon Adventures - Buster Saves the Day (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Titus the Fox (U) [C][!].gbc",
+      "label": "Titus the Fox (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Toki Tori (U) (M5) [C][!].gbc",
+      "label": "Toki Tori (U) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tom Clancy's Rainbow Six (U) (M3) [C][!].gbc",
+      "label": "Tom Clancy's Rainbow Six (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tom and Jerry (U) [C][!].gbc",
+      "label": "Tom and Jerry (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tom and Jerry - Mouse Hunt (U) [C][!].gbc",
+      "label": "Tom and Jerry - Mouse Hunt (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tom and Jerry in Mouse Attacks! (U) [C][!].gbc",
+      "label": "Tom and Jerry in Mouse Attacks! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tomb Raider (UE) (M5) [C][!].gbc",
+      "label": "Tomb Raider (UE) (M5) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tomb Raider - Curse of the Sword (U) [C][!].gbc",
+      "label": "Tomb Raider - Curse of the Sword (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tomb Raider 2 (Unl) [C][!].gbc",
+      "label": "Tomb Raider 2 (Unl) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tonka Construction Site (U) [C].gbc",
+      "label": "Tonka Construction Site (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tonka Raceway (U) (Rumble) [C][!].gbc",
+      "label": "Tonka Raceway (U) (Rumble) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tony Hawk's Pro Skater (U) [C][!].gbc",
+      "label": "Tony Hawk's Pro Skater (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tony Hawk's Pro Skater 2 (U) [C][!].gbc",
+      "label": "Tony Hawk's Pro Skater 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tony Hawk's Pro Skater 3 (U) [C][!].gbc",
+      "label": "Tony Hawk's Pro Skater 3 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Toobin' (U) [C][!].gbc",
+      "label": "Toobin' (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Toonsylvania (U) [C][!].gbc",
+      "label": "Toonsylvania (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Top Gear Pocket (U) [C][!].gbc",
+      "label": "Top Gear Pocket (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Top Gear Pocket 2 (U) [C][!].gbc",
+      "label": "Top Gear Pocket 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Top Gun - Fire Storm (U) (M6) [C][!].gbc",
+      "label": "Top Gun - Fire Storm (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Towers - Lord Baniff's Deceit (U) [C][!].gbc",
+      "label": "Towers - Lord Baniff's Deceit (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Toy Story 2 (U) [C][!].gbc",
+      "label": "Toy Story 2 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Toy Story Racer (U) [C][!].gbc",
+      "label": "Toy Story Racer (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Trick Boarder (U) [C][!].gbc",
+      "label": "Trick Boarder (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Triple Play 2001 (U) [C][!].gbc",
+      "label": "Triple Play 2001 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Trouballs (U) [C][!].gbc",
+      "label": "Trouballs (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Turok - Rage Wars (UE) (M4) [C][!].gbc",
+      "label": "Turok - Rage Wars (UE) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Turok 2 - Seeds of Evil (U) (M4) [C][!].gbc",
+      "label": "Turok 2 - Seeds of Evil (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Turok 3 - Shadow of Oblivion (U) (M4) [C][!].gbc",
+      "label": "Turok 3 - Shadow of Oblivion (U) (M4) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tweety's High-Flying Adventure (U) [C].gbc",
+      "label": "Tweety's High-Flying Adventure (U) [C]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Tyco RC - Racin' Ratz (U) [C][!].gbc",
+      "label": "Tyco RC - Racin' Ratz (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][T+Eng0.5_PentarouZero].gbc",
+      "label": "Uchuu Nin Tanaka Tarou de RPG Tsukuru GB2 (J) [C][T+Eng0.5_PentarouZero]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ultimate Fighting Championship (U) [C][!].gbc",
+      "label": "Ultimate Fighting Championship (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ultimate Paint Ball (U) [C][!].gbc",
+      "label": "Ultimate Paint Ball (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Ultimate Surfing (U) [C][!].gbc",
+      "label": "Ultimate Surfing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Uno (U) [C][!].gbc",
+      "label": "Uno (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/V-Rally - Championship Edition (U) (M3) [C][!].gbc",
+      "label": "V-Rally - Championship Edition (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Vegas Games (U) [C][!].gbc",
+      "label": "Vegas Games (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Vigilante 8 (U) [C][!].gbc",
+      "label": "Vigilante 8 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/WCW Mayhem (U) [C][!].gbc",
+      "label": "WCW Mayhem (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/WWF Attitude (U) [C][!].gbc",
+      "label": "WWF Attitude (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/WWF Betrayal (U) [C][!].gbc",
+      "label": "WWF Betrayal (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/WWF WrestleMania 2000 (U) [C][!].gbc",
+      "label": "WWF WrestleMania 2000 (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wacky Races (U) (M3) [C][!].gbc",
+      "label": "Wacky Races (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Walt Disney World Quest - Magical Racing Tour (U) [C][!].gbc",
+      "label": "Walt Disney World Quest - Magical Racing Tour (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wario Land 3 (JU) (M2) [C][!].gbc",
+      "label": "Wario Land 3 (JU) (M2) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wario Land II (U) [C][!].gbc",
+      "label": "Wario Land II (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Warlocked (U) [C][!].gbc",
+      "label": "Warlocked (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Warriors of Might and Magic (U) (M3) [C][!].gbc",
+      "label": "Warriors of Might and Magic (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wendy - Every Witch Way (U) [C][!].gbc",
+      "label": "Wendy - Every Witch Way (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Who Wants to Be a Millionaire - 2nd Edition (U) [C][!].gbc",
+      "label": "Who Wants to Be a Millionaire - 2nd Edition (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wild Thornberrys, The - Rambler (U) [C][!].gbc",
+      "label": "Wild Thornberrys, The - Rambler (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wings of Fury (U) [C][!].gbc",
+      "label": "Wings of Fury (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Winnie the Pooh - Adventures in the 100 Acre Wood (U) [C][!].gbc",
+      "label": "Winnie the Pooh - Adventures in the 100 Acre Wood (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wizardry Empire (J) (V1.0) [C][T-Eng0.45_Magecraft].gbc",
+      "label": "Wizardry Empire (J) (V1.0) [C][T-Eng0.45_Magecraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wizardry I - Proving Grounds of the Mad Overlord (J) [C][T+Eng_Opus].gbc",
+      "label": "Wizardry I - Proving Grounds of the Mad Overlord (J) [C][T+Eng_Opus]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wizardry II - Legacy of Llylgamyn (J) [C][T+Eng_Opus].gbc",
+      "label": "Wizardry II - Legacy of Llylgamyn (J) [C][T+Eng_Opus]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Wizardry III - Knights of Diamonds (J) [C][T+Eng_Opus].gbc",
+      "label": "Wizardry III - Knights of Diamonds (J) [C][T+Eng_Opus]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Woody Woodpecker (U) [C][!].gbc",
+      "label": "Woody Woodpecker (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Woody Woodpecker Racing (U) [C][!].gbc",
+      "label": "Woody Woodpecker Racing (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/World Destruction League - Thunder Tanks (U) (M3) [C][!].gbc",
+      "label": "World Destruction League - Thunder Tanks (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Worms Armageddon (U) (M3) [C][!].gbc",
+      "label": "Worms Armageddon (U) (M3) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/X-Men - Mutant Academy (U) [C][!].gbc",
+      "label": "X-Men - Mutant Academy (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/X-Men - Mutant Wars (U) [C][!].gbc",
+      "label": "X-Men - Mutant Wars (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/X-Men - Wolverine's Rage (U) [C][!].gbc",
+      "label": "X-Men - Wolverine's Rage (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Xena - Warrior Princess (U) (M6) [C][!].gbc",
+      "label": "Xena - Warrior Princess (U) (M6) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Xtreme Sports (U) [C][!].gbc",
+      "label": "Xtreme Sports (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Xtreme Wheels (U) [C][!].gbc",
+      "label": "Xtreme Wheels (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yars' Revenge - The Quotile Ultimatum (U) [C][!].gbc",
+      "label": "Yars' Revenge - The Quotile Ultimatum (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yoda Stories (U) [C][!].gbc",
+      "label": "Yoda Stories (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yogi Bear - Great Balloon Blast (U) [C][!].gbc",
+      "label": "Yogi Bear - Great Balloon Blast (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yu-Gi-Oh! Dark Duel Stories (U) [C][!].gbc",
+      "label": "Yu-Gi-Oh! Dark Duel Stories (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][T+Eng].gbc",
+      "label": "Yu-Gi-Oh! Duel Monsters 4 - Saikyou Kettousha Senki - Kaiba Deck (J) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Yu-Gi-Oh! Monster Capsule GB (J) [C][T+Eng_metranslations].gbc",
+      "label": "Yu-Gi-Oh! Monster Capsule GB (J) [C][T+Eng_metranslations]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Zebco Fishing! (U) [C][!].gbc",
+      "label": "Zebco Fishing! (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Zoboomafoo - Playtime In Zobooland (U) [C][!].gbc",
+      "label": "Zoboomafoo - Playtime In Zobooland (U) [C][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy Color/Zoids - Shirogane no Juukishin Liger Zero (J) [C][T+Eng].gbc",
+      "label": "Zoids - Shirogane no Juukishin Liger Zero (J) [C][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

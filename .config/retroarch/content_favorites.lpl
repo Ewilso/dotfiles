@@ -1,0 +1,211 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Asteroids (USA).a78",
+      "label": "Asteroids (USA)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Battleship # NES.NES",
+      "label": "Battleship # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Battletoads # NES.NES",
+      "label": "Battletoads # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Centipede (Europe).a78",
+      "label": "Centipede (Europe)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Chessmaster # NES.NES",
+      "label": "Chessmaster # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Defender # NES.NES",
+      "label": "Defender # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Defender 2 # NES.NES",
+      "label": "Defender 2 # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Dig Dug (Europe).a78",
+      "label": "Dig Dug (Europe)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Donkey Kong (USA).a78",
+      "label": "Donkey Kong (USA)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Donkey Kong Classics (DK and DK Jr.) # NES.NES",
+      "label": "Donkey Kong Classics (DK and DK Jr.) # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Donkey Kong Junior (USA).a78",
+      "label": "Donkey Kong Junior (USA)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Duck Hunt # NES.NES",
+      "label": "Duck Hunt # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/SNES/Frogger (U) [!].smc",
+      "label": "Frogger (U) [!]",
+      "core_path": "/usr/lib/libretro/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Galaga # NES.NES",
+      "label": "Galaga # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Galaga (Europe).a78",
+      "label": "Galaga (Europe)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Atari 7800/Galaga (USA).a78",
+      "label": "Galaga (USA)",
+      "core_path": "/usr/lib/libretro/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DETECT",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Lemmings # NES.NES",
+      "label": "Lemmings # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Ms. Pac-Man # NES.NES",
+      "label": "Ms. Pac-Man # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Pac-Man # NES.NES",
+      "label": "Pac-Man # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Pac-Mania # NES.NES",
+      "label": "Pac-Mania # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Q-Bert # NES.NES",
+      "label": "Q-Bert # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/SNES/Space Invaders (U) [t1].smc",
+      "label": "Space Invaders (U) [t1]",
+      "core_path": "/usr/lib/libretro/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/SNES/Space Invaders - The Original Game (J).smc",
+      "label": "Space Invaders - The Original Game (J)",
+      "core_path": "/usr/lib/libretro/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Tetris # NES.NES",
+      "label": "Tetris # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/NES/Tetris 2 # NES.NES",
+      "label": "Tetris 2 # NES",
+      "core_path": "/usr/lib/libretro/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    }
+  ]
+}

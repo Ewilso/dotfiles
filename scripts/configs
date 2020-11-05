@@ -1,0 +1,105 @@
+#!/bin/bash
+
+declare options=("alacritty
+bash
+bspwm
+dunst
+dmenu
+dwm
+fish
+i3
+neofetch
+omf
+polybar
+spectrwm
+st
+surf
+sxhkd
+sxiv
+termite
+vim
+xmobar
+xmonad
+xinitrc
+xprofile
+xresources
+quit")
+choice=$(echo -e "${options[@]}" | dmenu -i -p 'Edit config file: ')
+case "$choice" in
+	quit)
+		echo "Program terminated." && exit 1
+	;;
+	alacritty)
+		choice="$HOME/.config/alacritty/alacritty.yml"
+	;;
+	bash)
+		choice="$HOME/.config/bash/.bashrc"
+	;;
+	bspwm)
+		choice="$HOME/.config/bspwm/bspwmrc"
+	;;
+	dunst)
+		choice="$HOME/.config/dunst/dunstrc"
+	;;
+	dmenu)
+		choice="$HOME/lib/repos/dmenu/config.h"
+	;;
+	dwm)
+		choice="$HOME/lib/repos/dwm/config.h"
+	;;
+	neofetch)
+                choice="$HOME/.config/neofetch/config.conf"
+        ;;
+	fish)
+                choice="$HOME/.config/fish/fish_variables"
+        ;;
+	omf)
+                choice="$HOME/.config/fish/conf.d/omf.fish"
+        ;;
+	i3)
+		choice="$HOME/.config/i3/config"
+	;;
+	polybar)
+		choice="$HOME/.config/polybar/config"
+	;;
+	spectrwm)
+		choice="$HOME/.spectrwm.conf"
+	;;
+	st)
+		choice="$HOME/lib/repos/suckless/st/config.h"
+	;;
+	surf)
+                choice="$HOME/lib/repos/suckless/surf/config.h"
+        ;;
+	shxkd)
+                choice="$HOME/.config/sxhkd/sxhkdrc"
+        ;;
+	sxiv)
+                choice="$HOME/.config/sxiv/exec/key-handler"
+        ;;
+	termite)
+                choice="$HOME/.config/termite/config"
+        ;;
+	vim)
+                choice="$HOME/.config/vim/vimrc"
+        ;;
+	xmobar)
+                choice="$HOME/.config/xmobar/xmobarrc0"
+        ;;
+	xmonad)
+                choice="$HOME/.xmonad/xmonad.hs"
+        ;;
+	termite)
+                choice="$HOME/.config/xinitrc"
+        ;;
+	termite)
+                choice="$HOME/.xprofile"
+        ;;
+	termite)
+                choice="$HOME/.Xresources"
+        ;;
+	*)
+		exit 1
+	;;
+esac
+termite -e "vim "$choice""

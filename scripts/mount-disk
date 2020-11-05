@@ -1,5 +1,5 @@
 #!/bin/sh
-DRIVELIST=$(lsblk -lp | grep dev/sd | dmenu -l 30 | xargs -r echo)
+DRIVELIST=$(lsblk -lp | grep dev/ | dmenu -l 30 | xargs -r echo)
 DRIVE=$(printf $DRIVELIST | cut -c -9)
 CHOICE=$(printf Mount\\nUnmount\\nCancel | dmenu -l 3 | xargs -r echo)
 if [ "$CHOICE" = "Mount" ]

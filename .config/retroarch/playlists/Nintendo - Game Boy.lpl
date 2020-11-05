@@ -1,0 +1,4971 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/wilson/ROMS/Gameboy/1993 Collection 128-in-1 (Unl) [b1].gb",
+      "label": "1993 Collection 128-in-1 (Unl) [b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!].gb",
+      "label": "2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/4-in-1 Funpak (UE) [!].gb",
+      "label": "4-in-1 Funpak (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/4-in-1 Funpak Vol. II (JU) [!].gb",
+      "label": "4-in-1 Funpak Vol. II (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].gb",
+      "label": "A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Addams Family, The (U).gb",
+      "label": "Addams Family, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Addams Family, The - Pugsley's Scavenger Hunt (U).gb",
+      "label": "Addams Family, The - Pugsley's Scavenger Hunt (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Adventure Island (U).gb",
+      "label": "Adventure Island (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Adventure Island II (UE) [!].gb",
+      "label": "Adventure Island II (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Adventures of Rocky and Bullwinkle, The (U).gb",
+      "label": "Adventures of Rocky and Bullwinkle, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Adventures of Star Saver, The (U) [!].gb",
+      "label": "Adventures of Star Saver, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Aero Star (U) [!].gb",
+      "label": "Aero Star (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Aladdin (U) [S][!].gb",
+      "label": "Aladdin (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Alfred Chicken (U) [!].gb",
+      "label": "Alfred Chicken (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Alien 3 (UE) [!].gb",
+      "label": "Alien 3 (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Alien Olympics 2044 AD (U) [!].gb",
+      "label": "Alien Olympics 2044 AD (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Alien vs Predator - The Last of His Clan (U) [!].gb",
+      "label": "Alien vs Predator - The Last of His Clan (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/All-Star Baseball '99 (U) [!].gb",
+      "label": "All-Star Baseball '99 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Alleyway (W) [!].gb",
+      "label": "Alleyway (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Altered Space (U).gb",
+      "label": "Altered Space (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Amazing Penguin (U) [!].gb",
+      "label": "Amazing Penguin (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Amazing Spider-Man 2, The (UE) [!].gb",
+      "label": "Amazing Spider-Man 2, The (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Amazing Spider-Man 3, The - Invasion of the Spider-Slayers (U) [!].gb",
+      "label": "Amazing Spider-Man 3, The - Invasion of the Spider-Slayers (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Amazing Spider-Man, The (UE) [!].gb",
+      "label": "Amazing Spider-Man, The (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Amazing Tater (U).gb",
+      "label": "Amazing Tater (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Animaniacs (U) [S][!].gb",
+      "label": "Animaniacs (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Another Bible (J) [S][T+Eng1.01_AGTP].gb",
+      "label": "Another Bible (J) [S][T+Eng1.01_AGTP]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ant Soldiers (Sachen) [!].gb",
+      "label": "Ant Soldiers (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Artic Zone (Sachen 4-in-1 Vol. 5) (Unl) [!].gb",
+      "label": "Artic Zone (Sachen 4-in-1 Vol. 5) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Asterix (UE) (M5) [!].gb",
+      "label": "Asterix (UE) (M5) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Asteroids & Missile Command (U) [S][!].gb",
+      "label": "Asteroids & Missile Command (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Asteroids (U).gb",
+      "label": "Asteroids (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Atomic Punk (U) [!].gb",
+      "label": "Atomic Punk (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Attack of the Killer Tomatoes (U) [!].gb",
+      "label": "Attack of the Killer Tomatoes (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Avenging Spirit (U).gb",
+      "label": "Avenging Spirit (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Balloon Kid (W) [!].gb",
+      "label": "Balloon Kid (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Barbie - Game Girl (U).gb",
+      "label": "Barbie - Game Girl (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Baseball (W) [!].gb",
+      "label": "Baseball (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bases Loaded (U) [!].gb",
+      "label": "Bases Loaded (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Batman (JU) [!].gb",
+      "label": "Batman (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Batman - Return of the Joker (U) [!].gb",
+      "label": "Batman - Return of the Joker (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Batman - The Animated Series (U).gb",
+      "label": "Batman - The Animated Series (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Batman Forever (U) [!].gb",
+      "label": "Batman Forever (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battle Arena Toshinden (U) [S][!].gb",
+      "label": "Battle Arena Toshinden (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battle Bull (U) [!].gb",
+      "label": "Battle Bull (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battle Unit Zeoth (U) [!].gb",
+      "label": "Battle Unit Zeoth (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battle Zone & Super Breakout (U) [S][!].gb",
+      "label": "Battle Zone & Super Breakout (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battle of Olympus, The (UE) (M5).gb",
+      "label": "Battle of Olympus, The (UE) (M5)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battleship (U) [M][!].gb",
+      "label": "Battleship (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battletoads (U) [!].gb",
+      "label": "Battletoads (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battletoads Double Dragon - The Ultimate Team (U).gb",
+      "label": "Battletoads Double Dragon - The Ultimate Team (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Battletoads in Ragnarok's World (U) [!].gb",
+      "label": "Battletoads in Ragnarok's World (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Beavis and Butt-head (U) [!].gb",
+      "label": "Beavis and Butt-head (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Beethoven's 2nd (U) [S].gb",
+      "label": "Beethoven's 2nd (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Beetlejuice (U).gb",
+      "label": "Beetlejuice (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Berlitz French Language Translator (U).gb",
+      "label": "Berlitz French Language Translator (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Berlitz Spanish Language Translator (U).gb",
+      "label": "Berlitz Spanish Language Translator (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Best of the Best - Championship Karate (U) [!].gb",
+      "label": "Best of the Best - Championship Karate (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bill & Ted's Excellent Gameboy Adventure (UE) [!].gb",
+      "label": "Bill & Ted's Excellent Gameboy Adventure (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bill Elliott's NASCAR Fast Tracks (U).gb",
+      "label": "Bill Elliott's NASCAR Fast Tracks (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bionic Battler (U).gb",
+      "label": "Bionic Battler (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bionic Commando (U) [!].gb",
+      "label": "Bionic Commando (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bishoujo Senshi Sailor Moon (J) [T+Eng0.95_SomeGoodShit].gb",
+      "label": "Bishoujo Senshi Sailor Moon (J) [T+Eng0.95_SomeGoodShit]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Black Bass - Lure Fishing (U) [M][!].gb",
+      "label": "Black Bass - Lure Fishing (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Black Forest Tale (Sachen 4-in-1 Vol. 6) (Unl) [!].gb",
+      "label": "Black Forest Tale (Sachen 4-in-1 Vol. 6) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Blades of Steel (U) [!].gb",
+      "label": "Blades of Steel (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Blaster Master Boy (U).gb",
+      "label": "Blaster Master Boy (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Block Kuzushi GB (J) [S][T+Eng1.0_Pentarouzero].gb",
+      "label": "Block Kuzushi GB (J) [S][T+Eng1.0_Pentarouzero]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Blues Brothers, The (U) [!].gb",
+      "label": "Blues Brothers, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Blues Brothers, The - Jukebox Adventure (U).gb",
+      "label": "Blues Brothers, The - Jukebox Adventure (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bo Jackson Hit and Run (U) [!].gb",
+      "label": "Bo Jackson Hit and Run (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boggle Plus (U) [!].gb",
+      "label": "Boggle Plus (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bomb Disposer (Sachen 4-in-1 Vol. 6) (Unl) [!].gb",
+      "label": "Bomb Disposer (Sachen 4-in-1 Vol. 6) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bomb Jack (U).gb",
+      "label": "Bomb Jack (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bomberman GB (U) [S][!].gb",
+      "label": "Bomberman GB (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight].gb",
+      "label": "Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bonk's Adventure (U) [!].gb",
+      "label": "Bonk's Adventure (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bonk's Revenge (U) [S][!].gb",
+      "label": "Bonk's Revenge (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boomer's Adventure in ASMIK World (U) [!].gb",
+      "label": "Boomer's Adventure in ASMIK World (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boulder Dash (U) [!].gb",
+      "label": "Boulder Dash (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boxxle (U) (V1.1) [!].gb",
+      "label": "Boxxle (U) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boxxle 2 (U).gb",
+      "label": "Boxxle 2 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Boy and His Blob, A - The Rescue of Princess Blobette (U) [!].gb",
+      "label": "Boy and His Blob, A - The Rescue of Princess Blobette (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Brain Drain (U) [S][!].gb",
+      "label": "Brain Drain (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Brainbender (U) [!].gb",
+      "label": "Brainbender (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bram Stoker's Dracula (UE) [!].gb",
+      "label": "Bram Stoker's Dracula (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/BreakThru! (U) [!].gb",
+      "label": "BreakThru! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bubble Bobble (U) [M][!].gb",
+      "label": "Bubble Bobble (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bubble Bobble Part 2 (U) [!].gb",
+      "label": "Bubble Bobble Part 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bubble Ghost (U) [!].gb",
+      "label": "Bubble Ghost (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bubsy 2 (U) [!].gb",
+      "label": "Bubsy 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bugs Bunny (U) [!].gb",
+      "label": "Bugs Bunny (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bugs Bunny - Crazy Castle II (U) [!].gb",
+      "label": "Bugs Bunny - Crazy Castle II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Burai Fighter Deluxe (UE) [!].gb",
+      "label": "Burai Fighter Deluxe (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Burger Time Deluxe (JU) [!].gb",
+      "label": "Burger Time Deluxe (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bust-A-Move 2 - Arcade Edition (U).gb",
+      "label": "Bust-A-Move 2 - Arcade Edition (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Bust-A-Move 3 DX (U).gb",
+      "label": "Bust-A-Move 3 DX (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Buster Brothers (U) [!].gb",
+      "label": "Buster Brothers (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Caesars Palace (U) (V1.1) [!].gb",
+      "label": "Caesars Palace (U) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Captain America and the Avengers (U) [!].gb",
+      "label": "Captain America and the Avengers (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Captain Knick-Knack (Sachen) [!].gb",
+      "label": "Captain Knick-Knack (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Casino Funpak (U) [!].gb",
+      "label": "Casino Funpak (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Casper (U) [!].gb",
+      "label": "Casper (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castelian (U).gb",
+      "label": "Castelian (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castle Quest (U) [!].gb",
+      "label": "Castle Quest (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castlevania - Legends (U) [S][!].gb",
+      "label": "Castlevania - Legends (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castlevania Adventure, The (Graphics Improved Hack).gb",
+      "label": "Castlevania Adventure, The (Graphics Improved Hack)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castlevania Adventure, The (U) [!].gb",
+      "label": "Castlevania Adventure, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Castlevania II - Belmont's Revenge (U) [!].gb",
+      "label": "Castlevania II - Belmont's Revenge (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Catrap (U) [!].gb",
+      "label": "Catrap (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Centipede (U) [M][!].gb",
+      "label": "Centipede (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Chalvo 55 - Super Puzzle Action (J) [T+Eng1.0_lba].gb",
+      "label": "Chalvo 55 - Super Puzzle Action (J) [T+Eng1.0_lba]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Championship Pool (UE) [!].gb",
+      "label": "Championship Pool (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Chase H.Q. (W) (V1.1) [!].gb",
+      "label": "Chase H.Q. (W) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Chessmaster, The (UE) (V1.1) [!].gb",
+      "label": "Chessmaster, The (UE) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Choplifter II - Rescue & Survive (U).gb",
+      "label": "Choplifter II - Rescue & Survive (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Choplifter III (UE) [!].gb",
+      "label": "Choplifter III (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Chuck Rock (U) [!].gb",
+      "label": "Chuck Rock (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cliffhanger (UE) [!].gb",
+      "label": "Cliffhanger (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/College Slam (U) [!].gb",
+      "label": "College Slam (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Contra - The Alien Wars (U) [S][!].gb",
+      "label": "Contra - The Alien Wars (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cool Spot (U).gb",
+      "label": "Cool Spot (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cool World (U).gb",
+      "label": "Cool World (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cosmo Tank (U) [!].gb",
+      "label": "Cosmo Tank (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Crazy Burger (Sachen) [!].gb",
+      "label": "Crazy Burger (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Crystal Quest (U).gb",
+      "label": "Crystal Quest (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cutthroat Island (U).gb",
+      "label": "Cutthroat Island (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Cyraid (U) [!].gb",
+      "label": "Cyraid (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Daedalean Opus (U).gb",
+      "label": "Daedalean Opus (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Daffy Duck - The Marvin Missions (UE) [!].gb",
+      "label": "Daffy Duck - The Marvin Missions (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Daisenryaku (J) [T+Eng1.00_Gaijin Productions].gb",
+      "label": "Daisenryaku (J) [T+Eng1.00_Gaijin Productions]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dan Laser (Sachen) [!].gb",
+      "label": "Dan Laser (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Darkman (U).gb",
+      "label": "Darkman (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Darkwing Duck (U) [!].gb",
+      "label": "Darkwing Duck (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Days of Thunder (U) [!].gb",
+      "label": "Days of Thunder (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dead Heat Scramble (U).gb",
+      "label": "Dead Heat Scramble (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Deep - Final Mission (Sachen) [!].gb",
+      "label": "Deep - Final Mission (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Defender-Joust (U) [S][!].gb",
+      "label": "Defender-Joust (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dennis the Menace (U) [!].gb",
+      "label": "Dennis the Menace (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Desert Strike - Return to the Gulf (U) (Malibu) [S][!].gb",
+      "label": "Desert Strike - Return to the Gulf (U) (Malibu) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dexterity (U) [!].gb",
+      "label": "Dexterity (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dick Tracy (U).gb",
+      "label": "Dick Tracy (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dig Dug (U) [!].gb",
+      "label": "Dig Dug (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Disney's Mulan (U) [S].gb",
+      "label": "Disney's Mulan (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Donald Duck in Maui Mallard (U) [!].gb",
+      "label": "Donald Duck in Maui Mallard (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Donkey Kong (JU) (V1.1) [S][!].gb",
+      "label": "Donkey Kong (JU) (V1.1) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Donkey Kong Land (U) [S][!].gb",
+      "label": "Donkey Kong Land (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Donkey Kong Land 2 (UE) [S][!].gb",
+      "label": "Donkey Kong Land 2 (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Donkey Kong Land III (U) (V1.1) [S][!].gb",
+      "label": "Donkey Kong Land III (U) (V1.1) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Doraemon Kart (J) [S][T+Eng1.01_Magecraft].gb",
+      "label": "Doraemon Kart (J) [S][T+Eng1.01_Magecraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Double Dragon (U) [!].gb",
+      "label": "Double Dragon (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Double Dragon 2 (U) [!].gb",
+      "label": "Double Dragon 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Double Dragon 3 (U) [!].gb",
+      "label": "Double Dragon 3 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Double Dribble - 5 on 5 (U) [!].gb",
+      "label": "Double Dribble - 5 on 5 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dr. Franken (U) [!].gb",
+      "label": "Dr. Franken (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dr. Franken II (UE) (M7) [!].gb",
+      "label": "Dr. Franken II (UE) (M7) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dr. Mario (W) (V1.0) [!].gb",
+      "label": "Dr. Mario (W) (V1.0) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dr. Mario (W) (V1.1).gb",
+      "label": "Dr. Mario (W) (V1.1)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dragon Heart (U) [!].gb",
+      "label": "Dragon Heart (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dragon's Lair - The Legend (U) [!].gb",
+      "label": "Dragon's Lair - The Legend (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Dropzone (U) [M].gb",
+      "label": "Dropzone (U) [M]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Duck Adventures (Sachen 4-in-1 Vol. 1) (Unl) [!].gb",
+      "label": "Duck Adventures (Sachen 4-in-1 Vol. 1) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Duck Tales (U) [!].gb",
+      "label": "Duck Tales (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Duck Tales 2 (U) [!].gb",
+      "label": "Duck Tales 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Earthworm Jim (U) [!].gb",
+      "label": "Earthworm Jim (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Elevator Action (U) [!].gb",
+      "label": "Elevator Action (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Elite Soccer (U) [S].gb",
+      "label": "Elite Soccer (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Exodus (Unl) [!].gb",
+      "label": "Exodus (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Explosive Brick '94 (Sachen) [!].gb",
+      "label": "Explosive Brick '94 (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Extra Bases! (U) [!].gb",
+      "label": "Extra Bases! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/F-1 Pole Position (UE) [!].gb",
+      "label": "F-1 Pole Position (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/F-1 Race (W) (V1.0) [!].gb",
+      "label": "F-1 Race (W) (V1.0) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/F-1 Race (W) (V1.1) [!].gb",
+      "label": "F-1 Race (W) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/F-15 Strike Eagle (U) [!].gb",
+      "label": "F-15 Strike Eagle (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/FIFA International Soccer (U) (M4) [S].gb",
+      "label": "FIFA International Soccer (U) (M4) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/FIFA Soccer '96 (UE) (M4) [S][!].gb",
+      "label": "FIFA Soccer '96 (UE) (M4) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/FIFA Soccer '97 (UE) [S][!].gb",
+      "label": "FIFA Soccer '97 (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/FIFA Soccer '98 - Road to the World Cup (U) [S].gb",
+      "label": "FIFA Soccer '98 - Road to the World Cup (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Faceball 2000 (U) [!].gb",
+      "label": "Faceball 2000 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fastest Lap (JU) [!].gb",
+      "label": "Fastest Lap (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Felix the Cat (U).gb",
+      "label": "Felix the Cat (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ferrari - Grand Prix Challenge (U) [!].gb",
+      "label": "Ferrari - Grand Prix Challenge (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fidgetts, The (UE) (M7) [!].gb",
+      "label": "Fidgetts, The (UE) (M7) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fighting Simulator 2in1 - Flying Warriors (U) [!].gb",
+      "label": "Fighting Simulator 2in1 - Flying Warriors (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Final Fantasy 4 (Unl).gb",
+      "label": "Final Fantasy 4 (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Final Fantasy Adventure (U) [!].gb",
+      "label": "Final Fantasy Adventure (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Final Fantasy Legend II (U) [!].gb",
+      "label": "Final Fantasy Legend II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Final Fantasy Legend III (U) [!].gb",
+      "label": "Final Fantasy Legend III (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Final Fantasy Legend, The (U) [!].gb",
+      "label": "Final Fantasy Legend, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fire Fighter (U).gb",
+      "label": "Fire Fighter (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fish Dude (U).gb",
+      "label": "Fish Dude (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fist of the North Star (U) [!].gb",
+      "label": "Fist of the North Star (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Flash, The (U) [!].gb",
+      "label": "Flash, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Flintstones, The (U) [!].gb",
+      "label": "Flintstones, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Flintstones, The - King Rock Treasure Island (U).gb",
+      "label": "Flintstones, The - King Rock Treasure Island (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Flipull (U) [!].gb",
+      "label": "Flipull (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Football International (U).gb",
+      "label": "Football International (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Foreman for Real (U) [!].gb",
+      "label": "Foreman for Real (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Fortified Zone (U) [!].gb",
+      "label": "Fortified Zone (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Frank Thomas' Big Hurt Baseball (U) [!].gb",
+      "label": "Frank Thomas' Big Hurt Baseball (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Frommer's Personal Organizer (U).gb",
+      "label": "Frommer's Personal Organizer (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Frommer's Travel Guide (U) [!].gb",
+      "label": "Frommer's Travel Guide (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Galaga & Galaxian (U) [S][!].gb",
+      "label": "Galaga & Galaxian (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Game & Watch Gallery (U) (V1.1) [S][!].gb",
+      "label": "Game & Watch Gallery (U) (V1.1) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Game of Harmony, The (U).gb",
+      "label": "Game of Harmony, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gameboy Camera (UE) [S][!].gb",
+      "label": "Gameboy Camera (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gameboy Gallery (U) [S].gb",
+      "label": "Gameboy Gallery (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gameboy Wars Turbo (J) [S][T+Eng0.91_TransBRC].gb",
+      "label": "Gameboy Wars Turbo (J) [S][T+Eng0.91_TransBRC]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gamera - Daikai Jukuchuu Kessen (J) [S][T+Eng0.991].gb",
+      "label": "Gamera - Daikai Jukuchuu Kessen (J) [S][T+Eng0.991]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Garfield Labyrinth (U).gb",
+      "label": "Garfield Labyrinth (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gargoyle's Quest - Ghosts'n Goblins (UE) [!].gb",
+      "label": "Gargoyle's Quest - Ghosts'n Goblins (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gauntlet II (U).gb",
+      "label": "Gauntlet II (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gear Works (U) [!].gb",
+      "label": "Gear Works (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/George Foreman's KO Boxing (U) [!].gb",
+      "label": "George Foreman's KO Boxing (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Getaway, The (U).gb",
+      "label": "Getaway, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ghostbusters II (UE) [!].gb",
+      "label": "Ghostbusters II (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Go! Go! Tank (U) [!].gb",
+      "label": "Go! Go! Tank (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Goal! (U) [!].gb",
+      "label": "Goal! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/God Medicine - Hukkoku Han (J) [S][T+Eng1.0_AeonGenesis].gb",
+      "label": "God Medicine - Hukkoku Han (J) [S][T+Eng1.0_AeonGenesis]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Godzilla (U) [!].gb",
+      "label": "Godzilla (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Golf (W) [!].gb",
+      "label": "Golf (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gradius - The Interstellar Assault (U).gb",
+      "label": "Gradius - The Interstellar Assault (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Grand Prix (UE) [!].gb",
+      "label": "Grand Prix (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Great Greed (U) [!].gb",
+      "label": "Great Greed (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Gremlins 2 - The New Batch (W) [!].gb",
+      "label": "Gremlins 2 - The New Batch (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hal Wrestling (U) [!].gb",
+      "label": "Hal Wrestling (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hammerin' Harry - Ghost Building Company (U).gb",
+      "label": "Hammerin' Harry - Ghost Building Company (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Harvest Moon GB (U) [S][!].gb",
+      "label": "Harvest Moon GB (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hatris (U).gb",
+      "label": "Hatris (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Heavyweight Championship Boxing (U) [!].gb",
+      "label": "Heavyweight Championship Boxing (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Heiankyo Alien (U) [!].gb",
+      "label": "Heiankyo Alien (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hercules (U) [S].gb",
+      "label": "Hercules (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/High Stakes Gambling (U) [!].gb",
+      "label": "High Stakes Gambling (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hit the Ice (UE) [!].gb",
+      "label": "Hit the Ice (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Home Alone (U) [!].gb",
+      "label": "Home Alone (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Home Alone 2 (U) [!].gb",
+      "label": "Home Alone 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hook (U).gb",
+      "label": "Hook (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Houghton Mifflin Spell Checker and Calculator (U) [!].gb",
+      "label": "Houghton Mifflin Spell Checker and Calculator (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hudson Hawk (U) [!].gb",
+      "label": "Hudson Hawk (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Humans, The (U).gb",
+      "label": "Humans, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hunchback of Notre Dame, The - Topsy Turvy Games (U) [S][!].gb",
+      "label": "Hunchback of Notre Dame, The - Topsy Turvy Games (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hunt for Red October, The (U) [!].gb",
+      "label": "Hunt for Red October, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hyper Dunk (U).gb",
+      "label": "Hyper Dunk (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Hyper Lode Runner (JU) [!].gb",
+      "label": "Hyper Lode Runner (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/In Your Face (U).gb",
+      "label": "In Your Face (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Incredible Crash Dummies, The (U) [!].gb",
+      "label": "Incredible Crash Dummies, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Indiana Jones and the Last Crusade (UE) [!].gb",
+      "label": "Indiana Jones and the Last Crusade (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/International Superstar Soccer (U) [S].gb",
+      "label": "International Superstar Soccer (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ironman - X-O Manowar in Heavy Metal (U) [S][!].gb",
+      "label": "Ironman - X-O Manowar in Heavy Metal (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ishido (U) [!].gb",
+      "label": "Ishido (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Itchy & Scratchy - Miniature Golf Madness (U).gb",
+      "label": "Itchy & Scratchy - Miniature Golf Madness (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jack Nicklaus Golf (U) [!].gb",
+      "label": "Jack Nicklaus Golf (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/James Bond 007 (U) [S][!].gb",
+      "label": "James Bond 007 (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jeep Jamboree (U) [!].gb",
+      "label": "Jeep Jamboree (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jelly Boy (U).gb",
+      "label": "Jelly Boy (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jeopardy! (U) [!].gb",
+      "label": "Jeopardy! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jeopardy! - Platinum Edition (U) [S][!].gb",
+      "label": "Jeopardy! - Platinum Edition (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jeopardy! - Sports Edition (U) [!].gb",
+      "label": "Jeopardy! - Sports Edition (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jeopardy! - Teen Tournament (U) [S][!].gb",
+      "label": "Jeopardy! - Teen Tournament (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jetsons, The (U).gb",
+      "label": "Jetsons, The (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jida Igeki (J) [T+Eng].gb",
+      "label": "Jida Igeki (J) [T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jimmy Connors Tennis (U) [!].gb",
+      "label": "Jimmy Connors Tennis (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Joe & Mac (U) [!].gb",
+      "label": "Joe & Mac (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jordan vs Bird - One-on-One (U).gb",
+      "label": "Jordan vs Bird - One-on-One (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Judge Dredd (U) [!].gb",
+      "label": "Judge Dredd (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jungle Book, The (U) [!].gb",
+      "label": "Jungle Book, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jungle Strike (U).gb",
+      "label": "Jungle Strike (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jurassic Park (U) [!].gb",
+      "label": "Jurassic Park (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Jurassic Park 2 - The Chaos Continues (UE) (M4) [!].gb",
+      "label": "Jurassic Park 2 - The Chaos Continues (UE) (M4) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ken Griffey Jr. Presents Major League Baseball (U) [S][!].gb",
+      "label": "Ken Griffey Jr. Presents Major League Baseball (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kid Dracula (U) [!].gb",
+      "label": "Kid Dracula (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kid Icarus - Of Myths and Monsters (UE) [!].gb",
+      "label": "Kid Icarus - Of Myths and Monsters (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Killer Instinct (U) [S][!].gb",
+      "label": "Killer Instinct (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/King of Fighters '95, The (U) [S][!].gb",
+      "label": "King of Fighters '95, The (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/King of Fighters 98, The (Unl).gb",
+      "label": "King of Fighters 98, The (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kingdom Crusade (U).gb",
+      "label": "Kingdom Crusade (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kirby's Block Ball (U) [S][!].gb",
+      "label": "Kirby's Block Ball (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kirby's Dream Land (UE) [!].gb",
+      "label": "Kirby's Dream Land (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kirby's Dream Land 2 (U) [S][!].gb",
+      "label": "Kirby's Dream Land 2 (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kirby's Pinball Land (U) [!].gb",
+      "label": "Kirby's Pinball Land (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kirby's Star Stacker (U) [S][!].gb",
+      "label": "Kirby's Star Stacker (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Klax (U) [M][!].gb",
+      "label": "Klax (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Knight Quest (U).gb",
+      "label": "Knight Quest (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kung-Fu Master (U).gb",
+      "label": "Kung-Fu Master (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Kwirk (UE) [!].gb",
+      "label": "Kwirk (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lamborghini American Challenge (U) [!].gb",
+      "label": "Lamborghini American Challenge (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Last Action Hero (U).gb",
+      "label": "Last Action Hero (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lawnmower Man, The (U) [!].gb",
+      "label": "Lawnmower Man, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lazlos' Leap (U) [!].gb",
+      "label": "Lazlos' Leap (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Legend of Zelda, The - Link's Awakening (U) (V1.2) [!].gb",
+      "label": "Legend of Zelda, The - Link's Awakening (U) (V1.2) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Legend of the River King GB (U) [S][!].gb",
+      "label": "Legend of the River King GB (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lemmings (U) [!].gb",
+      "label": "Lemmings (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lemmings 2 - The Tribes (U) [!].gb",
+      "label": "Lemmings 2 - The Tribes (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lethal Weapon (U) [!].gb",
+      "label": "Lethal Weapon (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lion King, The (U) [!].gb",
+      "label": "Lion King, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Little Indian in Big City (U) [S].gb",
+      "label": "Little Indian in Big City (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Little Mermaid, The (U) [!].gb",
+      "label": "Little Mermaid, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lock 'N Chase (JU) [!].gb",
+      "label": "Lock 'N Chase (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Looney Tunes (U) [!].gb",
+      "label": "Looney Tunes (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Loopz (U).gb",
+      "label": "Loopz (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Lost World, The - Jurassic Park (U) [S][!].gb",
+      "label": "Lost World, The - Jurassic Park (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Madden '95 (UE) [S][!].gb",
+      "label": "Madden '95 (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Madden '96 (U) [S].gb",
+      "label": "Madden '96 (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Madden '97 (U) [S][!].gb",
+      "label": "Madden '97 (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Magic Ball (Unl).gb",
+      "label": "Magic Ball (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Magic Maze (Sachen) [!].gb",
+      "label": "Magic Maze (Sachen) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Magical Tower (Sachen 4-in-1 Vol. 5) (Unl) [!].gb",
+      "label": "Magical Tower (Sachen 4-in-1 Vol. 5) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Magnetic Soccer (U).gb",
+      "label": "Magnetic Soccer (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mahou Kishi Rayearth (J) [S][T+Eng_Kuroi2AOI].gb",
+      "label": "Mahou Kishi Rayearth (J) [S][T+Eng_Kuroi2AOI]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Malibu Beach Volleyball (U) [!].gb",
+      "label": "Malibu Beach Volleyball (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mani 4 In 1 (Unl) [!].gb",
+      "label": "Mani 4 In 1 (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Marble Madness (U) [!].gb",
+      "label": "Marble Madness (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mario's Picross (UE) [S][!].gb",
+      "label": "Mario's Picross (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mario's Picross 2 (J) [S][T+EngNC1_Zed].gb",
+      "label": "Mario's Picross 2 (J) [S][T+EngNC1_Zed]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Maru's Mission (U) [!].gb",
+      "label": "Maru's Mission (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Max (UE) [!].gb",
+      "label": "Max (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/McDonaldland (U) [!].gb",
+      "label": "McDonaldland (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megalit (U) [!].gb",
+      "label": "Megalit (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman (U) [T+Por_Emuboarding].gb",
+      "label": "Megaman (U) [T+Por_Emuboarding]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman - Dr. Wily's Revenge (U) [!].gb",
+      "label": "Megaman - Dr. Wily's Revenge (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman II (U) [!].gb",
+      "label": "Megaman II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman III (U) [!].gb",
+      "label": "Megaman III (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman IV (U) [!].gb",
+      "label": "Megaman IV (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Megaman V (U) [S][!].gb",
+      "label": "Megaman V (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mercenary Force (UE) [!].gb",
+      "label": "Mercenary Force (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Metal Masters (U).gb",
+      "label": "Metal Masters (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Metroid II - Destroyable Walls (Hack).gb",
+      "label": "Metroid II - Destroyable Walls (Hack)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Metroid II - Return of Samus (W) [!].gb",
+      "label": "Metroid II - Return of Samus (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mickey Mouse (UE) [!].gb",
+      "label": "Mickey Mouse (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mickey Mouse - Magic Wand (U) [S][!].gb",
+      "label": "Mickey Mouse - Magic Wand (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mickey's Dangerous Chase (U) [!].gb",
+      "label": "Mickey's Dangerous Chase (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mickey's Ultimate Challenge (U).gb",
+      "label": "Mickey's Ultimate Challenge (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Micro Machines 2 (U).gb",
+      "label": "Micro Machines 2 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mighty Morphin Power Rangers (U) [S][!].gb",
+      "label": "Mighty Morphin Power Rangers (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mighty Morphin Power Rangers - The Movie (U) [S].gb",
+      "label": "Mighty Morphin Power Rangers - The Movie (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Millipede - Centipede (UE) [S][!].gb",
+      "label": "Millipede - Centipede (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Milon's Secret Castle (U).gb",
+      "label": "Milon's Secret Castle (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Miner 2049er (U) [!].gb",
+      "label": "Miner 2049er (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Missile Command (U) [M][!].gb",
+      "label": "Missile Command (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mole Mania (U) [S][!].gb",
+      "label": "Mole Mania (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Momotarou Dengeki (J) [T+Eng0.91_Toma].gb",
+      "label": "Momotarou Dengeki (J) [T+Eng0.91_Toma]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Monopoly (U) [M][!].gb",
+      "label": "Monopoly (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Monster Max (U) (M6).gb",
+      "label": "Monster Max (U) (M6)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Monster Truck Wars (U) [!].gb",
+      "label": "Monster Truck Wars (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mortal Kombat (U) [!].gb",
+      "label": "Mortal Kombat (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mortal Kombat 3 (U) [!].gb",
+      "label": "Mortal Kombat 3 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mortal Kombat I & II (U) [!].gb",
+      "label": "Mortal Kombat I & II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mortal Kombat II (U) [!].gb",
+      "label": "Mortal Kombat II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Motocross Maniacs (U) [!].gb",
+      "label": "Motocross Maniacs (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mousetrap Hotel (U).gb",
+      "label": "Mousetrap Hotel (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mr Nutz (U).gb",
+      "label": "Mr Nutz (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mr. Chin's Gourmet Paradise (U).gb",
+      "label": "Mr. Chin's Gourmet Paradise (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mr. Do! (U).gb",
+      "label": "Mr. Do! (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ms. Pac-Man (U) [!].gb",
+      "label": "Ms. Pac-Man (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Muhammad Ali's Boxing (U).gb",
+      "label": "Muhammad Ali's Boxing (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mysterium (U).gb",
+      "label": "Mysterium (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Mystical Ninja (U) [S][!].gb",
+      "label": "Mystical Ninja (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NBA All Star Challenge (U) [!].gb",
+      "label": "NBA All Star Challenge (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NBA All Star Challenge 2 (U) [!].gb",
+      "label": "NBA All Star Challenge 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NBA Jam (U) [!].gb",
+      "label": "NBA Jam (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NBA Jam - Tournament Edition (UE) [!].gb",
+      "label": "NBA Jam - Tournament Edition (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NBA Live 96 (U) [S].gb",
+      "label": "NBA Live 96 (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NFL Football (U) [!].gb",
+      "label": "NFL Football (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NFL Quarterback Club (U) [!].gb",
+      "label": "NFL Quarterback Club (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NFL Quarterback Club 2 (U) [!].gb",
+      "label": "NFL Quarterback Club 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NFL Quarterback Club 96 (U) [!].gb",
+      "label": "NFL Quarterback Club 96 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NHL Hockey '95 (U) [S][!].gb",
+      "label": "NHL Hockey '95 (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/NHL Hockey '96 (U) [S][!].gb",
+      "label": "NHL Hockey '96 (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nail'N Scale (U).gb",
+      "label": "Nail'N Scale (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Navy Seals (U) [!].gb",
+      "label": "Navy Seals (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nectaris GB (J) [S][b2][T+Eng1.11_transBRC].gb",
+      "label": "Nectaris GB (J) [S][b2][T+Eng1.11_transBRC]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen (J) [T+Eng0.99_icemanX].gb",
+      "label": "Nekketsu Kouha Kunio-Kun - Bangai Rantou-Hen (J) [T+Eng0.99_icemanX]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nemesis (U) [!].gb",
+      "label": "Nemesis (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nettou Garou 2 (J) [S][T+Eng0.5_Magecraft].gb",
+      "label": "Nettou Garou 2 (J) [S][T+Eng0.5_Magecraft]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nettou King of Fighters '96 (J) [S][T+Eng(Uppercase)].gb",
+      "label": "Nettou King of Fighters '96 (J) [S][T+Eng(Uppercase)]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/New Chessmaster, The (JU) (M2) [!].gb",
+      "label": "New Chessmaster, The (JU) (M2) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nigel Mansell's World Championship '92 (U) [!].gb",
+      "label": "Nigel Mansell's World Championship '92 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nigel Mansell's World Championship '93 (U).gb",
+      "label": "Nigel Mansell's World Championship '93 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ninja Boy (U) [!].gb",
+      "label": "Ninja Boy (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ninja Boy 2 (U).gb",
+      "label": "Ninja Boy 2 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ninja Gaiden Shadow (U).gb",
+      "label": "Ninja Gaiden Shadow (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ninja Taro (U) [!].gb",
+      "label": "Ninja Taro (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nintendo World Cup (U) [!].gb",
+      "label": "Nintendo World Cup (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Nobunaga's Ambition (U) [!].gb",
+      "label": "Nobunaga's Ambition (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Oddworld Adventures (UE) [!].gb",
+      "label": "Oddworld Adventures (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Olympic Summer Games (U) [S].gb",
+      "label": "Olympic Summer Games (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Oni 4 - Kishin no Ketsuzoku (J) [T+Eng0.30_akujin].gb",
+      "label": "Oni 4 - Kishin no Ketsuzoku (J) [T+Eng0.30_akujin]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Operation C (U) [!].gb",
+      "label": "Operation C (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Othello (UE) [!].gb",
+      "label": "Othello (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Out of Gas (U) [!].gb",
+      "label": "Out of Gas (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Out to Lunch (UE) [!].gb",
+      "label": "Out to Lunch (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/PGA European Tour (U) [S][!].gb",
+      "label": "PGA European Tour (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/PGA Tour '96 (U) [S].gb",
+      "label": "PGA Tour '96 (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pac-Man (U) (Namco Hometek) [!].gb",
+      "label": "Pac-Man (U) (Namco Hometek) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pac-in-Time (UE) [S][!].gb",
+      "label": "Pac-in-Time (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pagemaster, The (U) [S][!].gb",
+      "label": "Pagemaster, The (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Palamedes (UE) [!].gb",
+      "label": "Palamedes (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Panel Action Bingo (U).gb",
+      "label": "Panel Action Bingo (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pang (U).gb",
+      "label": "Pang (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Paperboy (U) [M][!].gb",
+      "label": "Paperboy (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Paperboy 2 (U) [!].gb",
+      "label": "Paperboy 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Parasol Stars (UE) [!].gb",
+      "label": "Parasol Stars (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Parodius (UE) [!].gb",
+      "label": "Parodius (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Penguin Wars (U).gb",
+      "label": "Penguin Wars (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Penta Dragon (J) [T+Eng].gb",
+      "label": "Penta Dragon (J) [T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinball - Revenge of the Gator (U) [!].gb",
+      "label": "Pinball - Revenge of the Gator (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinball Deluxe (U).gb",
+      "label": "Pinball Deluxe (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinball Dreams (UE) [!].gb",
+      "label": "Pinball Dreams (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinball Fantasies (U).gb",
+      "label": "Pinball Fantasies (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinball Mania (U).gb",
+      "label": "Pinball Mania (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pinocchio (U) (1996) [!].gb",
+      "label": "Pinocchio (U) (1996) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pipe Dream (U) [!].gb",
+      "label": "Pipe Dream (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pit Fighter (U) [!].gb",
+      "label": "Pit Fighter (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Play Action Football (U) [!].gb",
+      "label": "Play Action Football (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pocahontas (U) [S].gb",
+      "label": "Pocahontas (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pocket Bomberman (U) [S].gb",
+      "label": "Pocket Bomberman (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pocket Monsters Midori (J) (V1.1) [S][T+Eng3.1_Vida][b1].gb",
+      "label": "Pocket Monsters Midori (J) (V1.1) [S][T+Eng3.1_Vida][b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pocket Monsters Yellow (J) (V1.0) [S][T-Eng].gb",
+      "label": "Pocket Monsters Yellow (J) (V1.0) [S][T-Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pokemon - Blue Version (UE) [S][!].gb",
+      "label": "Pokemon - Blue Version (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pokemon Green (U) [p1][!].gb",
+      "label": "Pokemon Green (U) [p1][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pokemon Orange V2.0d (Hack).gb",
+      "label": "Pokemon Orange V2.0d (Hack)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pokemon Red (UE) [S][!].gb",
+      "label": "Pokemon Red (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pokemon Red Advanced (U) [S][p1][!].gb",
+      "label": "Pokemon Red Advanced (U) [S][p1][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pop Up (U) [!].gb",
+      "label": "Pop Up (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Popeye 2 (U).gb",
+      "label": "Popeye 2 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Populous (UE) [!].gb",
+      "label": "Populous (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Power Mission (U).gb",
+      "label": "Power Mission (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Power Racer (U) [!].gb",
+      "label": "Power Racer (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Prehistorik Man (U).gb",
+      "label": "Prehistorik Man (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Primal Rage (U) [!].gb",
+      "label": "Primal Rage (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Prince of Persia (U).gb",
+      "label": "Prince of Persia (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Prophecy - The Viking Child (U) [!].gb",
+      "label": "Prophecy - The Viking Child (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Punisher, The - The Ultimate Payback (U).gb",
+      "label": "Punisher, The - The Ultimate Payback (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Pyramids of Ra (U).gb",
+      "label": "Pyramids of Ra (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Q Billion (U) [!].gb",
+      "label": "Q Billion (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Q-bert II (UE) [!].gb",
+      "label": "Q-bert II (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Qix (JU) [!].gb",
+      "label": "Qix (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Quarth (U) [!].gb",
+      "label": "Quarth (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/R-Type (U) [!].gb",
+      "label": "R-Type (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/R-Type II (U).gb",
+      "label": "R-Type II (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Race Days (Dirty Racing & 4 Wheel Drive) (U) [!].gb",
+      "label": "Race Days (Dirty Racing & 4 Wheel Drive) (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Race Drivin' (U) [!].gb",
+      "label": "Race Drivin' (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Radar Mission (UE) [!].gb",
+      "label": "Radar Mission (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Raging Fighter (UE) [!].gb",
+      "label": "Raging Fighter (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Rampart (U) [M][!].gb",
+      "label": "Rampart (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Real Ghostbusters, The (U) [!].gb",
+      "label": "Real Ghostbusters, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ren & Stimpy Show, The - Space Cadet Adventures (U) [!].gb",
+      "label": "Ren & Stimpy Show, The - Space Cadet Adventures (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ren & Stimpy Show, The - Veediots! (U) [!].gb",
+      "label": "Ren & Stimpy Show, The - Veediots! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Riddick Bowe Boxing (U).gb",
+      "label": "Riddick Bowe Boxing (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ring Rage (U) [!].gb",
+      "label": "Ring Rage (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Road Rash (U) [M][!].gb",
+      "label": "Road Rash (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Robin Hood - Prince of Thieves (U).gb",
+      "label": "Robin Hood - Prince of Thieves (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Robocop (U) (V1.0) [M][!].gb",
+      "label": "Robocop (U) (V1.0) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Robocop 2 (U).gb",
+      "label": "Robocop 2 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Robocop Vs. The Terminator (U) [!].gb",
+      "label": "Robocop Vs. The Terminator (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Robocopy (U) (V1.1).gb",
+      "label": "Robocopy (U) (V1.1)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Rockman World 5 (J) [S][T+Eng].gb",
+      "label": "Rockman World 5 (J) [S][T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Rodland (U).gb",
+      "label": "Rodland (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Roger Clemens MVP Baseball (U) [!].gb",
+      "label": "Roger Clemens MVP Baseball (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Rolan's Curse (U) [!].gb",
+      "label": "Rolan's Curse (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Rolan's Curse II (U) [!].gb",
+      "label": "Rolan's Curse II (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/SaGa 2 - Hihou Densetsu (J) (V1.0) [T+Eng].gb",
+      "label": "SaGa 2 - Hihou Densetsu (J) (V1.0) [T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Samurai Shodown (U) [S].gb",
+      "label": "Samurai Shodown (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sanrio Carnival (J) [T+Eng1.2_Six Feet Under].gb",
+      "label": "Sanrio Carnival (J) [T+Eng1.2_Six Feet Under]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/SeaQuest DSV (U) [S][!].gb",
+      "label": "SeaQuest DSV (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Serpent (U).gb",
+      "label": "Serpent (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Shanghai (U) [!].gb",
+      "label": "Shanghai (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Shaq Fu (U) [S].gb",
+      "label": "Shaq Fu (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Side Pocket (U) [!].gb",
+      "label": "Side Pocket (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Simpsons, The - Bart & the Beanstalk (U).gb",
+      "label": "Simpsons, The - Bart & the Beanstalk (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Simpsons, The - Bart vs the Juggernauts (U) [!].gb",
+      "label": "Simpsons, The - Bart vs the Juggernauts (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Simpsons, The - Escape from Camp Deadly (U) [!].gb",
+      "label": "Simpsons, The - Escape from Camp Deadly (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Simpsons, The - Krusty's Funhouse (U).gb",
+      "label": "Simpsons, The - Krusty's Funhouse (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Skate or Die - Bad 'N Rad (U) [!].gb",
+      "label": "Skate or Die - Bad 'N Rad (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Skate or Die - Tour de Thrash (U).gb",
+      "label": "Skate or Die - Tour de Thrash (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sky Ace (Sachen 4-in-1 Vol. 7) (Unl) [!].gb",
+      "label": "Sky Ace (Sachen 4-in-1 Vol. 7) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Small Soldiers (U) [S][!].gb",
+      "label": "Small Soldiers (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Smurfs, The (UE) (V1.1) (M3) [S][!].gb",
+      "label": "Smurfs, The (UE) (V1.1) (M3) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sneaky Snakes (UE) [!].gb",
+      "label": "Sneaky Snakes (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Snoopy - Magic Show (U) [!].gb",
+      "label": "Snoopy - Magic Show (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Snow Bros. Jr. (U) [!].gb",
+      "label": "Snow Bros. Jr. (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Soccer Mania (JU) [!].gb",
+      "label": "Soccer Mania (JU) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/SolarStriker (W) [!].gb",
+      "label": "SolarStriker (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Solitaire Funpak (U) [!].gb",
+      "label": "Solitaire Funpak (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Solomon's Club (UE) [!].gb",
+      "label": "Solomon's Club (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sonic 3D Blast 5 (Unl).gb",
+      "label": "Sonic 3D Blast 5 (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sonic 6 (Unl).gb",
+      "label": "Sonic 6 (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Space Invaders (U) [S][!].gb",
+      "label": "Space Invaders (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spanky's Quest (U) [!].gb",
+      "label": "Spanky's Quest (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Speedball 2 - Brutal Deluxe (UE) [!].gb",
+      "label": "Speedball 2 - Brutal Deluxe (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Speedy Gonzales (U) [!].gb",
+      "label": "Speedy Gonzales (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spider-Man and the X-Men in Arcade's Revenge (U).gb",
+      "label": "Spider-Man and the X-Men in Arcade's Revenge (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spiritual Warfare (Unl) [!].gb",
+      "label": "Spiritual Warfare (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spirou (U) (M4) [S].gb",
+      "label": "Spirou (U) (M4) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Splitz (UE) [!].gb",
+      "label": "Splitz (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sports Illustrated - Football & Baseball (U) [!].gb",
+      "label": "Sports Illustrated - Football & Baseball (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sports Illustrated - Golf Classic (U) [!].gb",
+      "label": "Sports Illustrated - Golf Classic (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sports Illustrated for Kids - The Ultimate Triple Dare! (U) [!].gb",
+      "label": "Sports Illustrated for Kids - The Ultimate Triple Dare! (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spot (U) [!].gb",
+      "label": "Spot (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spot - The Cool Adventure (U).gb",
+      "label": "Spot - The Cool Adventure (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spud's Adventure (U).gb",
+      "label": "Spud's Adventure (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Spy vs. Spy - Operation Boobytrap (U) (1992) [!].gb",
+      "label": "Spy vs. Spy - Operation Boobytrap (U) (1992) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Square Deal - The Game of Two Dimensional Poker (U) [!].gb",
+      "label": "Square Deal - The Game of Two Dimensional Poker (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Hawk (U) [!].gb",
+      "label": "Star Hawk (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Trek - 25th Anniversary (U) [!].gb",
+      "label": "Star Trek - 25th Anniversary (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Trek - Generations - Beyond the Nexus (U) [S][!].gb",
+      "label": "Star Trek - Generations - Beyond the Nexus (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Trek - The Next Generation (U) [!].gb",
+      "label": "Star Trek - The Next Generation (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Wars (U) (V1.1) [!].gb",
+      "label": "Star Wars (U) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Wars - Super Return of the Jedi (U) [S][!].gb",
+      "label": "Star Wars - Super Return of the Jedi (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Star Wars - The Empire Strikes Back (U).gb",
+      "label": "Star Wars - The Empire Strikes Back (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Stargate (U) [!].gb",
+      "label": "Stargate (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Stop That Roach! (U).gb",
+      "label": "Stop That Roach! (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Street Fighter II (UE) [S][!].gb",
+      "label": "Street Fighter II (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Street Racer (U) [!].gb",
+      "label": "Street Racer (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Street Rider (Sachen 4-in-1 Vol. 1) (Unl) [!].gb",
+      "label": "Street Rider (Sachen 4-in-1 Vol. 1) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sumo Fighter (U) [!].gb",
+      "label": "Sumo Fighter (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Ayanami Discovery SlideShow V1.1 (Unl).gb",
+      "label": "Super Ayanami Discovery SlideShow V1.1 (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Battletank (U) [!].gb",
+      "label": "Super Battletank (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng].gb",
+      "label": "Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Black Bass (U) [!].gb",
+      "label": "Super Black Bass (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Chase H.Q. (UE) [!].gb",
+      "label": "Super Chase H.Q. (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Color-Advance 46-in-1 - All USA Version (Unl) [b2].gb",
+      "label": "Super Color-Advance 46-in-1 - All USA Version (Unl) [b2]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Hunchback (U).gb",
+      "label": "Super Hunchback (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Mario Land (W) (V1.0) [!].gb",
+      "label": "Super Mario Land (W) (V1.0) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Mario Land (W) (V1.1) [!].gb",
+      "label": "Super Mario Land (W) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!].gb",
+      "label": "Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Off Road (U) [!].gb",
+      "label": "Super Off Road (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super R.C. Pro-Am (UE) [!].gb",
+      "label": "Super R.C. Pro-Am (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Robot Taisen (J) [T+Eng0.70_BioEncyst].gb",
+      "label": "Super Robot Taisen (J) [T+Eng0.70_BioEncyst]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Scrabble (U) [!].gb",
+      "label": "Super Scrabble (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Super Super Mario Land v1.0 by Frank Maggiore (SML Hack).gb",
+      "label": "Super Super Mario Land v1.0 by Frank Maggiore (SML Hack)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Superman (U) [S][!].gb",
+      "label": "Superman (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Supreme 105 in 1 (Menu) [p1][b1].gb",
+      "label": "Supreme 105 in 1 (Menu) [p1][b1]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Swamp Thing (U) [!].gb",
+      "label": "Swamp Thing (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sword of Hope II, The (U) [!].gb",
+      "label": "Sword of Hope II, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Sword of Hope, The (U) [!].gb",
+      "label": "Sword of Hope, The (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/T2 - The Arcade Game (U) [!].gb",
+      "label": "T2 - The Arcade Game (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tail Gator (U) [!].gb",
+      "label": "Tail Gator (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-Panic (J) [T+Eng0.50_Evolutions].gb",
+      "label": "Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-Panic (J) [T+Eng0.50_Evolutions]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tale Spin (U).gb",
+      "label": "Tale Spin (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tamagotchi (UE) [S][!].gb",
+      "label": "Tamagotchi (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tarzan (U) [!].gb",
+      "label": "Tarzan (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tasmania Story (U) [!].gb",
+      "label": "Tasmania Story (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Taz-Mania (U) [!].gb",
+      "label": "Taz-Mania (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Taz-Mania 2 (U) [!].gb",
+      "label": "Taz-Mania 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tecmo Bowl (U).gb",
+      "label": "Tecmo Bowl (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Teenage Mutant Ninja Turtles - Back From the Sewers (U) [!].gb",
+      "label": "Teenage Mutant Ninja Turtles - Back From the Sewers (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U) [!].gb",
+      "label": "Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].gb",
+      "label": "Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tennis (W) [!].gb",
+      "label": "Tennis (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Terminator 2 - Judgment Day (UE) [!].gb",
+      "label": "Terminator 2 - Judgment Day (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tesserae (U) [!].gb",
+      "label": "Tesserae (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris (W) (V1.0) [!].gb",
+      "label": "Tetris (W) (V1.0) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris (W) (V1.1) [!].gb",
+      "label": "Tetris (W) (V1.1) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris 2 (U) [!].gb",
+      "label": "Tetris 2 (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris Attack (U) (V1.0) [S][!].gb",
+      "label": "Tetris Attack (U) (V1.0) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris Blast (U) [S][!].gb",
+      "label": "Tetris Blast (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tetris Plus (U) [S][!].gb",
+      "label": "Tetris Plus (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tiger A Dragon (Unl).gb",
+      "label": "Tiger A Dragon (Unl)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tiny Toon Adventures - Wacky Sports (U) [!].gb",
+      "label": "Tiny Toon Adventures - Wacky Sports (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tiny Toon Adventures 2 - Montana's Movie Madness (U) [!].gb",
+      "label": "Tiny Toon Adventures 2 - Montana's Movie Madness (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tip Off (UE) [!].gb",
+      "label": "Tip Off (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Titus the Fox (UE) [M][!].gb",
+      "label": "Titus the Fox (UE) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tom and Jerry (U) [M][!].gb",
+      "label": "Tom and Jerry (U) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tom and Jerry - Frantic Antics (U).gb",
+      "label": "Tom and Jerry - Frantic Antics (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Top Gun - Guts & Glory (U) [!].gb",
+      "label": "Top Gun - Guts & Glory (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Top Ranking Tennis (U) [!].gb",
+      "label": "Top Ranking Tennis (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Torpedo Range (UE) [!].gb",
+      "label": "Torpedo Range (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Total Carnage (UE) [!].gb",
+      "label": "Total Carnage (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Toxic Crusaders (U).gb",
+      "label": "Toxic Crusaders (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Toy Story (U) (V1.0) [S][!].gb",
+      "label": "Toy Story (U) (V1.0) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Track & Field (U) [!].gb",
+      "label": "Track & Field (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Track Meet (U).gb",
+      "label": "Track Meet (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Trax (U) [!].gb",
+      "label": "Trax (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/True Lies (U) [!].gb",
+      "label": "True Lies (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Tumble Pop (U).gb",
+      "label": "Tumble Pop (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Turn and Burn (U) [!].gb",
+      "label": "Turn and Burn (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Turok - Battle of the Bionosaurs (UE) (M4) [!].gb",
+      "label": "Turok - Battle of the Bionosaurs (UE) (M4) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Turrican (UE) [!].gb",
+      "label": "Turrican (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Uchuu no Kishi Tekkaman Blade (J) [T+Eng].gb",
+      "label": "Uchuu no Kishi Tekkaman Blade (J) [T+Eng]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ultima - Runes of Virtue (U).gb",
+      "label": "Ultima - Runes of Virtue (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ultima - Runes of Virtue II (U).gb",
+      "label": "Ultima - Runes of Virtue II (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ultra Golf (U).gb",
+      "label": "Ultra Golf (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Ultraman Ball (J) [S][T+Eng0.99_Suicidal Translations].gb",
+      "label": "Ultraman Ball (J) [S][T+Eng0.99_Suicidal Translations]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Universal Soldier (U).gb",
+      "label": "Universal Soldier (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Urban Strike (U) [S][!].gb",
+      "label": "Urban Strike (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Urusei Yatsura - Miss Tomobiki o Saguse! (J) [T+Eng0.05_Razor-X].gb",
+      "label": "Urusei Yatsura - Miss Tomobiki o Saguse! (J) [T+Eng0.05_Razor-X]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/V-Rally - Championship Edition (U) (M3) [M][!].gb",
+      "label": "V-Rally - Championship Edition (U) (M3) [M][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Vegas Stakes (U) [S][!].gb",
+      "label": "Vegas Stakes (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WCW Main Event (U) [!].gb",
+      "label": "WCW Main Event (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WWF King of the Ring (U) [!].gb",
+      "label": "WWF King of the Ring (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WWF Raw (UE) [!].gb",
+      "label": "WWF Raw (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WWF Superstars (UE) [!].gb",
+      "label": "WWF Superstars (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WWF Superstars 2 (UE) [!].gb",
+      "label": "WWF Superstars 2 (UE) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WWF Warzone (U).gb",
+      "label": "WWF Warzone (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wario Blast Featuring Bomberman! (U) [S][!].gb",
+      "label": "Wario Blast Featuring Bomberman! (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wario Land - Super Mario Land 3 (W) [!].gb",
+      "label": "Wario Land - Super Mario Land 3 (W) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wario Land II (UE) [S][!].gb",
+      "label": "Wario Land II (UE) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wayne's World (U).gb",
+      "label": "Wayne's World (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/We're Back! - A Dinosaur's Story (U) [!].gb",
+      "label": "We're Back! - A Dinosaur's Story (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wheel of Fortune (U) [!].gb",
+      "label": "Wheel of Fortune (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Who Framed Roger Rabbit (U) [!].gb",
+      "label": "Who Framed Roger Rabbit (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wild Snake (U) [S].gb",
+      "label": "Wild Snake (U) [S]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Winter Gold (U).gb",
+      "label": "Winter Gold (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/WordZap (U).gb",
+      "label": "WordZap (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Wordtris (U) [!].gb",
+      "label": "Wordtris (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/World Bowling (U).gb",
+      "label": "World Bowling (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/World Circuit Series (U).gb",
+      "label": "World Circuit Series (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/World Cup USA '94 (UE) (M8) [!].gb",
+      "label": "World Cup USA '94 (UE) (M8) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/World Heroes 2 Jet (U) [S][!].gb",
+      "label": "World Heroes 2 Jet (U) [S][!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Worm Visitor (Sachen 4-in-1 Vol. 5) (Unl) [!].gb",
+      "label": "Worm Visitor (Sachen 4-in-1 Vol. 5) (Unl) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Worms (U) [!].gb",
+      "label": "Worms (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/XVII Olympic Winter Games, The - Lillehammer 1994 (U).gb",
+      "label": "XVII Olympic Winter Games, The - Lillehammer 1994 (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Xenon 2 - Megablast (U).gb",
+      "label": "Xenon 2 - Megablast (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Yogi Bear in Yogi Bear's Goldrush (U) [!].gb",
+      "label": "Yogi Bear in Yogi Bear's Goldrush (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Yoshi (U) [!].gb",
+      "label": "Yoshi (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Yoshi's Cookie (U) [!].gb",
+      "label": "Yoshi's Cookie (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Zen - Intergalactic Ninja (U).gb",
+      "label": "Zen - Intergalactic Ninja (U)",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Zool (U) [!].gb",
+      "label": "Zool (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/home/wilson/ROMS/Gameboy/Zoop (U) [!].gb",
+      "label": "Zoop (U) [!]",
+      "core_path": "/usr/lib/libretro/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "DETECT",
+      "db_name": "Nintendo - Game Boy.lpl"
+    }
+  ]
+}

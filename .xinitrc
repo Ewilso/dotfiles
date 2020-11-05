@@ -1,14 +1,12 @@
 dwm &
-xrdb ~/.Xresources &
+[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources &
 export TERMINAL="st"
 sxhkd &
-sudo iptables -I OUTPUT 1 -m owner --gid-owner no-internet -j DROP &
+sudo sysctl -w kernel.unprivileged_userns_clone=1 &
 sh ~/lib/scripts/dwmbar &
-xset m 9 1
 setxkbmap -layout gb &
-compton &
+picom &
 lxsession &
-sudo systemctl start windscribe &
-xrandr --output HDMI-A-0 --left-of HDMI-A-1 &
-xwallpaper --zoom ~/.config/wall.png
+xrandr --output VGA-1 --left-of LVDS-1 &
+xwallpaper --zoom ~/.config/wall.png &
 unclutter --timeout 1 
