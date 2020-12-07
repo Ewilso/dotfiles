@@ -10,6 +10,4 @@ fi
 if [ "$CHOICE" = "Unmount" ]
 then
 	sudo umount "$DRIVE"
-else
-	notify-send Cancelled
 fi

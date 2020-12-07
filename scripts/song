@@ -1,0 +1,10 @@
+#!/bin/sh
+if [ "$(mpc current)" = "" ]
+then
+	echo "   -  "
+else
+	value=$(mpc current | wc -c)
+	newlen=$(($value-6))
+	echo "  $(mpc current | cut -c -"$newlen")"
+fi
+

@@ -1,0 +1,49 @@
+## Launchers
+ * super + return	launch terminal 	(st)
+ * super + s 		launch file manager 	(ranger)
+ * super + shift + s 	launch file manager 	(pcmanfm)
+ * super + w		launch web browser 	(brave)
+ * super + shift + w	launch web browser 	(surf)
+ * super + d		launch run prompt	(dmenu)
+
+## System
+ * super + f1		suspend 
+ * super + f2 		kill xorg
+ * super + f3 		reboot
+ * super + f4 		shutdown
+
+## Scripts
+ * alt + e		emojis  
+ * alt + z		ide
+ * alt + p		wallpapers
+ * alt + w		iso burner
+ * alt + d 		disk mounter
+ * alt + f		jukebox
+ * alt + s		videos
+ * alt + q		emulation
+ * alt + l		arch wiki
+
+## WM
+ * super + c		toggle bar
+ * super + j		shift focus in stack +1
+ * super + k		shift focus in stack -1
+ * super + shift + j	move in stack +1
+ * super + shift + k	move in stack -1
+ * super + i		horizontal orientation
+ * super + n		vertical orientation
+ * super + h		change master -0.05
+ * super + l		change master +0.05
+ * super + x		kill client
+ * super + m		set layout [M]
+ * super + 		set layout [T]
+ * super + shift +  	toggle floating
+ * super + 0		view all
+ * super + shift + 0	show on all
+ * super + shift + r	restart
+ * super + shift + q	quit
+ * super + 1-9		switch to workspace
+ * super + shift + 1-9	move to workspace
+
+## Misc
+ * super + p		take screenshot
+ * super + y 		lock screen
