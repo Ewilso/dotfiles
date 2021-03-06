@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <!--https://www.thebalancesmb.com/copyright-a-website-to-protect-it-4145788#citation-1-->
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=0.5, maximum-scale=0.5, user-scalable=0'/>
+    <link rel="stylesheet" href="/static/css/all.css">
+    <link rel="stylesheet" href="/static/css/index.css">
+    <script data-ad-client="ca-pub-6358820144898110" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="bfbea814613e19a1475dcde6-text/javascript"></script>
+    <script type="bfbea814613e19a1475dcde6-text/javascript" src="/static/js/index.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175511969-1" type="bfbea814613e19a1475dcde6-text/javascript"></script>
+    <title>VentChat</title>
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8NCDR9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="mySidebar" class="sidebar">
+      <a href="javascript:void(0)" class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; closeNav()" data-cf-modified-bfbea814613e19a1475dcde6-="">×</a>
+      <a href="#">Home</a>
+      <a href="/catergories/">Login/Signup</a>
+      <a href="#about">About</a>
+      <a href="#WWD">What we do</a>
+      <a href="/cdn-cgi/l/email-protection#ef998a819b8c878e9b8b809b818a9baf88828e8683c18c8082" target="_blank">Contact Us</a>
+    </div>
+    <div id="welcome">
+      <div class="openbtn" onclick="if (!window.__cfRLUnblockHandlers) return false; openNav()" data-cf-modified-bfbea814613e19a1475dcde6-="">Menu &nbsp;<i class="fas fa-bars"></i></div>
+      <div id="titles">
+              <h1 id="MainTitle">VentChat</h1>
+              <h2 id="SubTitle">A problem shared is a problem halved</h2><br>
+              <a href="/catergories/"><div id="GetStarted">Start Chatting</div></a>
+      </div>
+      <div id="ScrollDown">
+        Learn More<br><i class="fas fa-angle-double-down"></i>
+      </div>
+    </div><a name="WWD"></a>
+    <div class="dmbtn" onclick="if (!window.__cfRLUnblockHandlers) return false; darkMode()" data-cf-modified-bfbea814613e19a1475dcde6-=""><i class="fas fa-moon"></i></div>
+    <div class="paras">
+      <h3>What We Do</h3>
+      <p>VentChat is a service that provides a safe and anonymous space for those who need it. It allows people to chat about their problems with no fear of
+      consequence. Using our service is virtually risk free, and we encourage you to take advantage of this and be as open as you like. You can use VentChat
+      to: talk about problems, help people with their own struggles and have interesting conversations with strangers. To get started, make an account today
+      with by clicking <a href="/register/">here</a>.</p>
+    </div><a name="about"></a>
+    <div class="paras">
+      <h3>About Us</h3>
+      <p> The creator of VentChat was inspired to make it for two reasons, one being the frightening increase in mental health issues around the world,
+        and two being his own need to talk about his issues without worrying about people taking advantage of that vulnerability. He knew he wanted to become a
+        therapist and help people, but he also knew that the current model of therapeutic treatments would never meet the demands of people needing to express the
+        problems they face. He believed one of the best ways to meet this demand was to provide an anonymous chatting service, with no strings or risks attached,
+        easy access to talk to real people dealing with similar issues.</p>
+    </div>
+    <div class="paras"><a name="partners"></a>
+      <h3>Your Privacy</h3>
+      <p>Privacy is the most important aspect of this website. As a result we take it very seriously. To protect you, emails are not required when making an
+      account, allowing for complete anonymity. No messages on this site are stored, allowing for complete anonymity and no data misuse. However, if you encounter
+      abuse, please let us know. None of your personal data beyond what you tell us is stored and no data is ever given away.</p>
+    </div>
+    <br>
+    <div class="footer">
+      © 2020 VentChat Studios<br>
+      LC & HW
+    </div>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="bfbea814613e19a1475dcde6-|49" defer=""></script></body>
+</html>
