@@ -1,6 +1,8 @@
 # My Dotfiles
 
+![Scrot 2](Screenshot2.png)
 ![Scrot](Screenshot.png)
+
 
 OS - Arch Linux
 
