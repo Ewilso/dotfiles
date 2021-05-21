@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/wilson/.config/surf/html'
+let g:netrw_dirhist_4='/home/wilson/.cargo/bin'
+let g:netrw_dirhist_3='/home/wilson/.config/vim/plugged/lightline.vim/autoload'
+let g:netrw_dirhist_2='/home/wilson/.config/vim/plugged/lightline.vim'
+let g:netrw_dirhist_1='/home/wilson/.config/suckless/st'
+let g:netrw_dirhist_0='/home/wilson/.config/termite'
+let g:netrw_dirhist_9='/home/wilson/.xmonad'
+let g:netrw_dirhist_8='/home/wilson/.config/suckless/dwmblocks/blocks'
+let g:netrw_dirhist_7='/home/wilson/.suckless/dwm'
+let g:netrw_dirhist_6='/'
