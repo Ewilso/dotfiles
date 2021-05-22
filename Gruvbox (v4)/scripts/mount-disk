@@ -1,0 +1,13 @@
+#!/bin/sh
+DRIVELIST=$(lsblk -lp | grep dev/ | dmenu -l 30 | xargs -r echo)
+DRIVE=$(printf $DRIVELIST | cut -c -9)
+CHOICE=$(printf Mount\\nUnmount\\nCancel | dmenu -l 3 | xargs -r echo)
+if [ "$CHOICE" = "Mount" ]
+then
+	MNTPOINT=$(cd ~/lib/drives/ && ls | dmenu -l 5 | xargs -r echo)
+	sudo mount "$DRIVE" ~/lib/drives/"$MNTPOINT"
+fi
+if [ "$CHOICE" = "Unmount" ]
+then
+	sudo umount "$DRIVE"
+fi

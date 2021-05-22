@@ -1,0 +1,46 @@
+#!/bin/sh
+bat() {
+	battery="/sys/class/power_supply/BAT0"
+	capacity=$(cat "$battery"/capacity) || break
+	printf "  $capacity"
+}
+
+net() {	
+	rxfile="${XDG_CACHE_HOME:-$HOME/.cache}/rxlog"
+	txfile="${XDG_CACHE_HOME:-$HOME/.cache}/txlog"
+	rxcurrent="$(cat /sys/class/net/*/statistics/rx_bytes | paste -sd '+' | bc)"
+	txcurrent="$(cat /sys/class/net/*/statistics/tx_bytes | paste -sd '+' | bc)"
+	printf " %sKiB  %sKiB\\n" \
+        	"$(printf -- "(%s-%s)/1024\\n" "$rxcurrent" "$(cat "$rxfile")" | bc)" \
+        	"$(printf -- "(%s-%s)/1024\\n" "$txcurrent" "$(cat "$txfile")" | bc)"
+	echo "$rxcurrent" > "$rxfile"
+	echo "$txcurrent" > "$txfile"
+}
+
+wet() {
+	getforecast() { curl -sf "wttr.in/$LOCATION" > "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" || exit 1 ;}
+	showweather() { printf "%s" "$(sed '16q;d' "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" |
+		grep -wo "[0-9]*%" | sort -rn | sed "s/^/FOR Ch /g;1q" | tr -d '\n')"		
+	sed '13q;d' "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" | grep -o "m\\([-+]\\)*[0-9]\\+" | sort -n -t 'm' -k 2n | sed -e 1b -e '$!d' | tr '\n|m' ' ' | awk '{print " Lo",$1, "Hi", $2}' ;}
+	[ "$(stat -c %y "${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" 2>/dev/null | cut -d' ' -f1)" = "$(date '+%Y-%m-%d')" ] ||
+	         getforecast
+
+	showweather
+}
+cpu(){
+	top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1"%"}' | \
+			  xargs echo "  CPU:" 
+}
+
+disk(){
+	echo " HDD: $(df -a | grep /dev/sda2 | cut -c 46- | cut -c -4 )"
+}
+dates() {
+	    echo "$(sh ~/.config/polybar/pacupdate)"
+}
+while :; do
+	echo "|  +@fg=1; $(dates) +@fg=0; |   +@fg=2;$(cpu)+@fg=0;  |   +@fg=3;$(disk)+@fg=0;  |   +@fg=4;$(net)+@fg=0;  |  +@fg=5;$(bat)%+@fg=0; |"
+	sleep 3
+done
+
+

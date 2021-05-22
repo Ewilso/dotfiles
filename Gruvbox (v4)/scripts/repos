@@ -1,0 +1,4 @@
+#!/bin/sh
+REPO=$(ls ~/lib/code | dmenu -l 30 -p "Choose a repo:" -bw 2 -c)
+
+cd ~/lib/code/$REPO && tabbed -c -r 2 st -w '' -e tmux -c vim &

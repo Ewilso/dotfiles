@@ -1,0 +1,6 @@
+#!/bin/sh
+SONG=$(mpc listall | dmenu -c -p "Choose a song:" -bw 2 -l 30)
+mpc clear
+mpc add "$SONG"
+mpc play 1
+
