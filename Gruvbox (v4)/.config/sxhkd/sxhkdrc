@@ -27,7 +27,19 @@ super + p
 super +  d
 	dmenu_run -c -p "Run:" -bw 2 -l 30
 
+super + g
+	screenkey
+
+super + shift + g
+	killall screenkey
+
 #Script Binds
+alt + b
+	sh $HOME/.config/polybar/launch.sh		
+
+alt + m
+	st -e yay
+
 alt + e 
 	sh ~/lib/scripts/emoji
 
@@ -42,9 +54,6 @@ alt + w
 
 alt + d
 	sh ~/lib/scripts/mount-disk
-
-alt + f
-	sh ~/lib/scripts/audioctl
 
 alt + s 
 	sh ~/lib/scripts/video
