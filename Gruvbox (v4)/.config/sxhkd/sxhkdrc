@@ -40,11 +40,11 @@ alt + b
 alt + m
 	st -e yay
 
+alt + z
+  st -e vim
+
 alt + e 
 	sh ~/lib/scripts/emoji
-
-alt + z
-	sh ~/lib/scripts/repos
 
 alt + p
 	sh ~/lib/scripts/papers

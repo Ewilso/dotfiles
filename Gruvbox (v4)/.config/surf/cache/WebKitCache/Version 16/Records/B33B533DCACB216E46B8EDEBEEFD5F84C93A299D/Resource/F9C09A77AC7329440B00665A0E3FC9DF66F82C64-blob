@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>reddit.com: Google One Tap</title>
+        <link rel="shortcut icon" type="image/png" sizes="512x512" href="https://www.redditstatic.com/accountmanager/favicon/favicon-512x512.png">
+        <link rel="shortcut icon" type="image/png" sizes="192x192" href="https://www.redditstatic.com/accountmanager/favicon/favicon-192x192.png">
+        <link rel="shortcut icon" type="image/png" sizes="32x32" href="https://www.redditstatic.com/accountmanager/favicon/favicon-32x32.png">
+        <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://www.redditstatic.com/accountmanager/favicon/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.redditstatic.com/accountmanager/favicon/apple-touch-icon-180x180.png">
+        <link rel="mask-icon" href="https://www.redditstatic.com/accountmanager/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+        <meta name="msapplication-TileColor" content="#ffffff"/>
+        <meta name="msapplication-TileImage" content="https://www.redditstatic.com/accountmanager/favicon/mstile-310x310.png"/>
+        <meta name="msapplication-TileImage" content="https://www.redditstatic.com/accountmanager/favicon/mstile-310x150.png"/>
+        <meta name="theme-color" content="#ffffff">
+        
+  <meta name="description" content="Google One Tap">
+
+        
+  
+    
+      <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/vendor.4edfac426c2c4357e34e.css">
+    
+      <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/theme.dd6166d12db20f8f9958.css">
+    
+      <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/ssoOneTap.5269341469b906f111e0.css">
+    
+  
+
+    </head>
+    <body>
+        
+<div class="App m-desktop m-is-d2x-buttons-2020">
+  
+<form id="globals" autocomplete="off">
+  <input type="hidden" name="app_name" value="ssoOneTap">
+  <input type="hidden" name="csrf_token" value="9f0346e38a86e39d1832ca2b6e0d1174476568da">
+  <input type="hidden" name="dest" value="https://www.reddit.com">
+  <input type="hidden" name="is_logged_in" value="False">
+  <input type="hidden" name="is_email_perm_required" value="True">
+  <input type="hidden" name="is_mobile_ui" value="False">
+  <input type="hidden" name="subreddit_ids" value="">
+  <input type="hidden" name="lang" value="en">
+  
+
+<input type="hidden" name="d2x_sso_login_link" value="enabled">
+
+<input type="hidden" name="d2x_2020ify_buttons" value="enabled">
+
+
+</form>
+
+  <form id="props">
+    
+  <input style="display:none" type="text" name="fakeusernameremembered"/>
+  <input style="display:none" type="password" name="fakepasswordremembered"/>
+  <input type="hidden" name="auto_select" value="False">
+
+  </form>
+  
+  <main class="OneTap">
+    
+      
+<div class="OnboardingStep Onboarding__step " data-step="google-ui">
+  <div class="Step">
+    
+    <div class="Step__content">
+      
+      
+        <div id="google-one-tap"></div>
+      
+    </div>
+  </div>
+</div>
+
+      
+        
+<div class="OnboardingStep Onboarding__step " data-step="email-opt-in">
+  <div class="Step">
+    
+    <div class="Step__content">
+      
+      
+          
+          <p class="EmailDescription">Don’t miss a thing from Reddit!</p>
+          
+<fieldset class="AnimatedForm__field m-checkbox  ">
+  <label class="AnimatedForm__checkboxLabel m-bottom-margin">
+    <input id="emailPermission" class="AnimatedForm__checkboxInput" type="checkbox" name="emailPermission">
+    
+            I agree to get emails about cool stuff on Reddit
+          
+  </label>
+</fieldset>
+
+          <button class="AnimatedForm__submitButton ContinueButton" type="button">Continue</button>
+        
+    </div>
+  </div>
+</div>
+
+      
+      
+
+  
+    
+  
+<div class="OnboardingStep Onboarding__step " data-step="select-account">
+  <div class="Step">
+    
+    <div class="Art Step__art"></div>
+    
+    <div class="Step__content">
+      
+        
+
+  
+
+      
+      
+    <div class="AnimatedForm__header">
+      <h1 class="Title m-no-margin">Choose a Reddit account</h1>
+      <p class="Description">
+        Your email <b id="sso-email"></b> is connected to:
+      </p>
+    </div>
+    <div id="ChooseAccount"></div>
+  
+    </div>
+  </div>
+</div>
+
+
+  
+
+
+      
+
+  
+    
+  
+  
+<div class="OnboardingStep Onboarding__step mode-2fa" data-step="confirm-otp">
+  <div class="Step">
+    
+    <div class="Art Step__art"></div>
+    
+    <div class="Step__content">
+      
+        
+
+  
+
+      
+      
+    
+      <h1 class="Title m-no-margin">
+        Enter the 6-digit code from your authenticator app
+      </h1>
+      <p class="tfa-description">
+        You have two-factor authentication enabled on this account because you&#39;re awesome.
+      </p>
+    
+
+    <form id="confirm-otp-form">
+      
+<fieldset class="AnimatedForm__field m-required otp">
+  
+  
+  <input id="confirmOtp" class="AnimatedForm__textInput " type="tel" name="confirm-otp" pattern="[0-9]*" autocomplete="off" placeholder="
+    6 digit code
+  ">
+  <label class="AnimatedForm__textInputLabel " for="confirmOtp">
+    
+    6 digit code
+  
+  </label>
+  <div class="AnimatedForm__errorMessage"></div>
+</fieldset>
+
+      
+<fieldset class="AnimatedForm__field switch-otp-type">
+  <input type="hidden" name="confirm-otp-type" value="app">
+  <span class="BottomLink switch-otp-type">
+    
+      use a backup code
+  </span>
+</fieldset>
+
+      
+      
+<fieldset class="AnimatedForm__field ">
+  <button class="AnimatedForm__submitButton " type="submit">
+    
+        Check code
+      
+  </button>
+  <div class="AnimatedForm__submitStatus">
+    <div class="AnimatedForm__submitStatusIcon"></div>
+    <span class="AnimatedForm__submitStatusMessage"></span>
+  </div>
+</fieldset>
+
+    </form>
+
+    
+      <div class="BottomText tfa-bottom-text">
+        
+        <a class="BottomLink" target="_blank" href="https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication">Having trouble?</a>
+      </div>
+    
+  
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+      
+
+  
+    
+  
+<div class="OnboardingStep Onboarding__step " data-step="confirm-password">
+  <div class="Step">
+    
+    <div class="Art Step__art"></div>
+    
+    <div class="Step__content">
+      
+        
+
+  
+
+      
+      
+    <div class="AnimatedForm__header">
+      <h1 class="Title">Confirm your password</h1>
+    </div>
+    <form id="confirm-password-form">
+      
+      
+<fieldset class="AnimatedForm__field m-required ">
+  
+  <input id="confirmPassword" class="AnimatedForm__textInput " type="password" name="confirm-password" required placeholder="
+        Password
+      ">
+  <label class="AnimatedForm__textInputLabel " for="confirmPassword">
+    
+        Password
+      
+  </label>
+  <div class="AnimatedForm__errorMessage"></div>
+</fieldset>
+
+      
+      
+<fieldset class="AnimatedForm__field ">
+  <button class="AnimatedForm__submitButton " type="submit">
+    
+        Continue
+      
+  </button>
+  <div class="AnimatedForm__submitStatus">
+    <div class="AnimatedForm__submitStatusIcon"></div>
+    <span class="AnimatedForm__submitStatusMessage"></span>
+  </div>
+</fieldset>
+
+    </form>
+    <div class="BottomText m-secondary-text login-bottom-text hideable">
+      <a class="BottomLink m-secondary-text" href="/password?experiment_d2x_2020ify_buttons=enabled&amp;experiment_d2x_sso_login_link=enabled&amp;d2x_google_onetap=onetap">Forgot password?</a>
+    </div>
+  
+    </div>
+  </div>
+</div>
+
+
+  
+
+
+      
+  
+<div class="OnboardingStep Onboarding__step " data-step="subscribe">
+  <div class="Step">
+    
+    <div class="Step__content">
+      
+        
+
+  
+
+      
+      
+    <div class="AnimatedForm__header">
+      <h1 class="Title m-no-margin">Find communities by topics you’re interested in.</h1>
+      <p class="Description">
+        Reddit is filled with interest based communities, offering something for everyone.
+        <br/>
+        Reddit works best when you have joined at least 5 communities.
+      </p>
+    </div>
+    <div id="SubredditSubscriptions"></div>
+    <div class="AnimatedForm__bottomNav">
+      <span class="AnimatedForm__submitStatus" data-step="&lt;Macro &#39;step&#39;&gt;">
+        <span class="AnimatedForm__submitStatusIcon"></span>
+        <span class="AnimatedForm__submitStatusMessage"></span>
+      </span>
+      <button class="AnimatedForm__submitButton SubscribeButton" type="submit" data-step="&lt;Macro &#39;step&#39;&gt;">Finish</button>
+    </div>
+  
+    </div>
+  </div>
+</div>
+
+
+    
+  </main>
+
+</div>
+
+
+        <script>
+            //<![CDATA
+                
+                window.___r = {"config": {"tracker_endpoint": "https://events.reddit.com/v2", "tracker_key": "AccountManager3", "tracker_secret": "V2FpZ2FlMlZpZTJ3aWVyMWFpc2hhaGhvaHNoZWl3"}};
+            //]]>
+        </script>
+        
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  
+    <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/vendor.03b4e9bb5c556caac842.js"></script>
+  
+    <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/theme.bdb25326fd189e5404cb.js"></script>
+  
+    <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/sentry.177521f08ca8fc05703c.js"></script>
+  
+    <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/ssoOneTap.d41c2db7e7c18ef0953a.js"></script>
+  
+
+    </body>
+</html>
