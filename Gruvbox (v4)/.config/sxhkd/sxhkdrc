@@ -12,11 +12,11 @@ super + Return
 super + s 
 	$TERMINAL -e ranger
 
-super + w
+super + shift + w
 	brave
 
-super + shift + w
-	tabbed -r 2 surf -pe x 'file:///home/wilson/.config/surf/html/homepage.html'
+super + w
+	firefox
 
 super + shift + s
 	pcmanfm

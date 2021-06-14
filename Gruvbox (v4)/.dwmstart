@@ -1,0 +1,8 @@
+dwm &
+dunst &
+export TERMINAL="st"
+sxhkd &
+lxsession &
+setxkbmap -layout gb &
+xwallpaper --zoom ~/.config/wall.png &
+unclutter --timeout 1 
