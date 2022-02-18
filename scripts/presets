@@ -1,0 +1,10 @@
+#!/bin/sh
+if [[  $1 = "-s"  ]]; then
+	mkdir ~/Documents/$2/
+	cd ~/Documents/$2
+	cp -r ~/.config ./
+elif [[ $1 = "-l" ]]; then
+	cd ~/Documents/$2
+	rm -r ~/.config/*
+	cp -r .config/* ~/.config/
+fi

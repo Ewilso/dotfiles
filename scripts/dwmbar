@@ -67,10 +67,10 @@ memory(){
 	free --mebi | sed -n '2{p;q}' | awk '{printf (" %2.2fGiB/%2.2fGiB\n", ( $3 / 1024), ($2 / 1024))}'
 }
 bat(){
-	echo "  $(cat /sys/class/power_supply/BAT0/capacity)%"
+	echo "  $(cat /sys/class/power_supply/BAT1/capacity)%"
 }
 while :; do
-	xsetroot -name " $(kernel) | $(music) | $(updates) | $(disk) | $(bat) | $(calendar) "
+	echo " $(net) | $(cpu) | $(updates) | $(disk) | $(bat) | $(calendar) "
 	sleep 3
 done
 
