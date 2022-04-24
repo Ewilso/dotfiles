@@ -1,6 +1,0 @@
-#!/bin/sh
-cd ~/lib/roms
-console=$(ls | dmenu -c -p "Choose Console:" -bw 2 -l 30)
-cd $console
-rom=$(ls | dmenu -c -p "Load ROM:" -bw 2 -l 30)
-nestopia -f ~/lib/roms/$console/"$rom"

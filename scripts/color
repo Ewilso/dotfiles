@@ -1,4 +1,0 @@
-#!/bin/sh
-cd ~/lib/scripts/effects
-effect=$(cd ~/lib/scripts/effects && ls | shuf -e * | head -1)
-./"$effect"
